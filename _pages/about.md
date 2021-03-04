@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Political Science Department at the Emory University. My research interest centers around comparative welfare state, the politics of inequality, and dualism of labor market in developing countries.
+I am a PhD student in the Political Science Department at Emory University. My main research agenda centers around redistributive politics under dictatorships, with a focus on labor regulations. My broad research interests include the political economy of inequality and redistribution in developed and developing contexts and politics of public goods provision. 
 
-My master thesis in the title of "Organizing Labor as Obstacle to Redistribution" investigates the impact of dualism on redistributive spending in Latin America. I earned my MA and BA degree in political science and a minor in anthropology from National Taiwan University. I was an exchange student at the Tsinghua University.
+Before coming to Emory, I earned my MA and BA degree in political science and a minor in anthropology from National Taiwan University. I was an exchange student at the Tsinghua University.
 
 You can contact me via email: [hsu.yumin.wang@emory.edu](mailto:hsu.yumin.wang@emory.edu)
