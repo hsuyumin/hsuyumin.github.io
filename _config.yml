@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &HsuEmerson
 facebook:
   username               :
   app_id                 :
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Hsu Yumin WANG"
-  avatar           : "profile.png"
-  bio              : "Ph.D Student"
+  avatar           : "profile.jpg"
+  bio              : "Ph.D Student of department of political science at Emory University"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "HsuEmerson"
   vine             :
   weibo            :
   xing             :
