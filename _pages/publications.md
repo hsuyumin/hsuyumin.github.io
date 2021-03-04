@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+------
 # Conference & Working Papers
 
 ## Autocracy and Labor Regulations
@@ -30,6 +31,7 @@ Why do some countries redistribute more than others? So far, much of extant work
 What accounts for transitions from clientelism to programmatic politics? In line with existing dominant approach focusing on increasing electoral costs of clientelism triggered by transformation of economic structure such as economic development, mass education, urbanization, and neoliberal reform, we consider another source of costs neglected by extant literature: judicial independence. We argue that progress in judicial independence, through empowering three sets of agents—liberal judges and prosecutors, opposition parties, and critical citizens, makes it more likely that clientelistic politicians who appropriate public resources and buy votes illegally will be sanctioned by the independent courts. As such, judicial independence serves as an important momemtum that makes it difficult for the functioning of clientelism and thus pave the way for programmatic politics. Our empirical examination is twofold. First, we conduct cross-national analysis using Democratic Accountability and Linkages Project (DALP). Second, we test our argument using time-series cross-section data from V-Dem with 117 countries from 1971 to 1999. The statistical results lend support to our theoretical expectation: judicial independence hampers clientelism (in cross-sectional analysis) and is positive to programmatic linkages (in TSCS analysis). This article contributes to the emergent literature on varieties of democratic linkages.
 
 
+------
 
 # Thesis
 
