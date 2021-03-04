@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hsu Yumin WANG"
   avatar           : "profile.jpg"
-  bio              : "Ph.D Student of department of political science at Emory University"
+  bio              : "Ph.D student of Department of Political Science at Emory University"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "hsu.yumin.wang@emory.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
