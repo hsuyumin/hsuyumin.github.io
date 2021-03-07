@@ -20,6 +20,8 @@ It is growingly recognized that the theorized welfare-enhancing effects of decen
 
 Keywords: centralization, elite capture, public service provision, DID
 
+## Institutions and Democratization in Right-Wing Dictatorships (with Jennifer Gandhi and Dulce Manzano) (Under Review)
+
 ## Organized Labor as Obstacles to Redistribution: Inequality, Dualization and Redistributive Spending in Developing Countries
 ### Paper presented at APSA 2016; MPSA 2016.
 
