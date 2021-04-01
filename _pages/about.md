@@ -12,4 +12,4 @@ I am a third-year PhD student in Department of Political Science at Emory Univer
 
 Before coming to Emory, I earned my MA and BA degree in political science and a minor in anthropology from National Taiwan University. I was an exchange student at the Tsinghua University in China.
 
-You can contact me via email: [hsu.yumin.wang@emory.edu](mailto:hsu.yumin.wang@emory.edu)
+You can contact me via email: `hsu <dot> yumin <dot> wang [at] emory <dot> edu`
