@@ -11,7 +11,7 @@ redirect_from:
 # Conference & Working Papers
 
 ## Autocracy and Labor Regulations
-### MPSA 2021; [AOPSSS Webinar](https://aopsss.org/schedule/appease-workers-without-losses-autocracy-and-progressive-labor-regulations-by-hsu-yumin-wang/)
+### MPSA 2021; [APOSS Webinar](https://aposs.cc/schedule/appease-workers-without-losses-autocracy-and-progressive-labor-regulations-by-hsu-yumin-wang/)
 Under what conditions would dictators improve labor regulations? It is well established in the literature that economic inequality plays an important role in inducing autocrats to implement redistribution to buy off revolutionary threats. However, a more protective labor law may decrease elites' economic benefits and thus loyalty to the incumbent regime. I argue that an ineffective court system can help dictators to balance workers' gains and elites' losses because it allows dictators to more easily control the judicial process of labor disputes to mitigate elites' distributional losses. I test this argument by conducting time-series cross-section analysis covering 68 autocracies from 1970 to 2008. I complement my quantitative analyses with an illustrative case from the 2008 Labor Contract Law in China. This study contributes to the literature on autocracy and redistribution and shed light on how and why judicial institutions can matter for redistributive politics.
 
 Keywords: authoritarianism, labor regulations, redistributive politics, judicial effectiveness
