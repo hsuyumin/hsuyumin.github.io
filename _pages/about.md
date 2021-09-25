@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in Department of Political Science at Emory University. My main research agenda centers around redistributive politics under dictatorships, with a focus on labor regulations. My broader research interests encompass the political economy of inequality and redistribution in developed and developing contexts and politics of public goods provision.
+Welcome! I am a PhD candidate in Department of Political Science at Emory University. My main research agenda centers around redistributive politics under dictatorships. In my dissertation project, I try to answer the question of why some autocracies enact labor legislation that protects workers and explore mass political consequences of the progressive labor legislation, emphasizing how the authoritarian judiciary helps control the distributive conflicts between elites and masses in the context of labor reforms. Beyond the dissertation project, my broader research interests encompass the political economy of inequality and redistribution and politics of public goods provision in demotractic and autocratic context, where I draw on various theoretical perspectives (e.g., internal migration, the interaction between authoritarian institutions and ideology, the tax-welfare mix, and centralization) to study redistribution (preferences) and public goods provision.  
 
 Before coming to Emory, I earned my MA and BA degree in political science and a minor in anthropology from National Taiwan University. I was an exchange student at the Tsinghua University in China.
 
