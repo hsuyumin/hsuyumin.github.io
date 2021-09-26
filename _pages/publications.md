@@ -27,9 +27,9 @@ Keywords: centralization, elite capture, public service provision, difference-in
 
 # Work in Progress
 
-## Mass Political Consequences of Partial Redistribution
-## Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai (with Eddy Yeung)
-## Exploring the Microfoundations of the Link between Regressive Taxation and Welfare State
+### Mass Political Consequences of Partial Redistribution
+### Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai (with Eddy Yeung)
+### Exploring the Microfoundations of the Link between Regressive Taxation and Welfare State
 
 
 # Pre-Doctoral Work
