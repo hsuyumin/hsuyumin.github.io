@@ -11,18 +11,28 @@ redirect_from:
 # Conference & Working Papers
 
 ## Autocracy and Labor Regulations
-### MPSA 2021; [APOSS Webinar](https://aposs.cc/schedule/appease-workers-without-losses-autocracy-and-progressive-labor-regulations-by-hsu-yumin-wang/)
+### APSA and MPSA 2021; [APOSS Webinar](https://aposs.cc/schedule/appease-workers-without-losses-autocracy-and-progressive-labor-regulations-by-hsu-yumin-wang/)
 Under what conditions would dictators improve labor regulations? It is well established in the literature that economic inequality plays an important role in inducing autocrats to implement redistribution to buy off revolutionary threats. However, a more protective labor law may decrease elites' economic benefits and thus loyalty to the incumbent regime. I argue that an ineffective court system can help dictators to balance workers' gains and elites' losses because it allows dictators to more easily control the judicial process of labor disputes to mitigate elites' distributional losses. I test this argument by conducting time-series cross-section analysis covering 68 autocracies from 1970 to 2008. I complement my quantitative analyses with an illustrative case from the 2008 Labor Contract Law in China. This study contributes to the literature on autocracy and redistribution and shed light on how and why judicial institutions can matter for redistributive politics.
 
 Keywords: authoritarianism, labor regulations, redistributive politics, judicial effectiveness
 
 ## Centralization, Elite Capture, and Service Provision: Evidence from Taiwan
-### MPSA 2021
+### APSA and MPSA 2021
 It is growingly recognized that the theorized welfare-enhancing effects of decentralization may not be always realized due to the presence of local elite capture. Does decentralization still help promote service provision in the context where elite capture is prevalent? To answer this question, I leverage a within-country institutional change in Taiwan, where townships affected by the 2010 municipal reform experienced a sharp decline in the degree of decentralization on multiple dimensions. Utilizing a difference-in-differences strategy, the main results show that recentralization, on average, decreases public goods provision by roughly 40\% of a within-township standard deviation. However, contrary to some existing findings, I do not find strong evidence that a more centralized system improves service provision especially in areas where pre-reform elite capture problems were serious. Overall, this article makes contributions to the literature on decentralization and elite capture as well as policy debates on local institutional choice.
 
-Keywords: centralization, elite capture, public service provision, DID
+Keywords: centralization, elite capture, public service provision, difference-in-differences
 
 ## Institutions and Democratization in Right-Wing Dictatorships (with Jennifer Gandhi and Dulce Manzano) (Under Review)
+
+
+# Work in Progress
+
+## Mass Political Consequences of Partial Redistribution
+## Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai (with Eddy Yeung)
+## Exploring the Microfoundations of the Link between Regressive Taxation and Welfare State
+
+
+# Pre-Doctoral Work
 
 ## Organized Labor as Obstacles to Redistribution: Inequality, Dualization and Redistributive Spending in Developing Countries
 ### Paper presented at APSA 2016; MPSA 2016.
