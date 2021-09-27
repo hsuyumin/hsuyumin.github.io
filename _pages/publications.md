@@ -28,7 +28,7 @@ Paper presented at [APSA 2021](https://tinyurl.com/yzb568ue) and MPSA 2021.
 
 `Keywords` centralization, elite capture, public service provision, difference-in-differences
 
-### Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm)) (Under Review)
+## Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm)) (Under Review)
 
 Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
 
