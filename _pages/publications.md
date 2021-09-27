@@ -51,7 +51,7 @@ Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
 
 ### Organized Labor as Obstacles to Redistribution: Inequality, Dualization and Redistributive Spending in Developing Countries
 
-Master Thesis. DOI: [10.6342/NTU201801462](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107201817083900)
+Master Thesis. `DOI` [10.6342/NTU201801462](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107201817083900)
 
 Paper presented at APSA 2016; MPSA 2016.
 
