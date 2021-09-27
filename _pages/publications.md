@@ -11,7 +11,7 @@ redirect_from:
 # Conference & Working Papers
 --------------
 
-### Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations
+## Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations
 
 Paper presented at [APSA 2021](https://tinyurl.com/yxkzhqfs) and MPSA 2021; [APOSS Webinar](https://aposs.cc/schedule/appease-workers-without-losses-autocracy-and-progressive-labor-regulations-by-hsu-yumin-wang/).
 
@@ -20,7 +20,7 @@ Under what conditions would dictators improve labor regulations? It is well esta
 
 `Keywords` authoritarianism, labor regulations, redistributive politics, judicial effectiveness
 
-### Centralization, Elite Capture, and Service Provision: Evidence from Taiwan
+## Centralization, Elite Capture, and Service Provision: Evidence from Taiwan
 
 Paper presented at [APSA 2021](https://tinyurl.com/yzb568ue) and MPSA 2021.
 
@@ -56,11 +56,9 @@ Master Thesis. `DOI` [10.6342/NTU201801462](https://www.airitilibrary.com/Public
 Paper presented at APSA 2016; MPSA 2016.
 
 <details>
-  <summary> Show Abstract & Keywords </summary>
-  
-  <code>Abstract</code>   Why do some countries redistribute more than others? So far, much of extant work has been confined to the developed countries. This study aims to overcome that drawback, situating this puzzle within the developing world. My argument builds on the reality characterizes most of developing countries: the large size of the informal sector. Combining insider-outsider theory and Meltzer and Richard model, I argue that formal sector workers impede expanding redistributive policies as economic inequality worsens. Labor divide stemming from the segmentation between formal sector and informal sector workers suggests that their preferences for redistributive policies may be different. Furthermore, rising inequality polarizes the discrepancies as a result of more redistribution demanded by the median voter who would be, with high probability, the informal sector worker. In turn, labor market insiders may hinder further redistribution as inequality rises because they may suffer from more taxation to finance more redistributive spending. I buttress this argument by time-series cross-section data covering 18 Latin American countries from 1985 to 2002. This article speaks to the emerging literature on the impact of labor market dualization on welfare regimes around the world.
-  
-  <code>Keywords</code>  Inequality; Working Class Divide; Redistribution; Truncated Welfare States; Informality; Latin America; Time-Series Cross-Section Data Analysis
+  <summary>Show Abstract</summary>
+
+  Why do some countries redistribute more than others? So far, much of extant work has been confined to the developed countries. This study aims to overcome that drawback, situating this puzzle within the developing world. My argument builds on the reality characterizes most of developing countries: the large size of the informal sector. Combining insider-outsider theory and Meltzer and Richard model, I argue that formal sector workers impede expanding redistributive policies as economic inequality worsens. Labor divide stemming from the segmentation between formal sector and informal sector workers suggests that their preferences for redistributive policies may be different. Furthermore, rising inequality polarizes the discrepancies as a result of more redistribution demanded by the median voter who would be, with high probability, the informal sector worker. In turn, labor market insiders may hinder further redistribution as inequality rises because they may suffer from more taxation to finance more redistributive spending. I buttress this argument by time-series cross-section data covering 18 Latin American countries from 1985 to 2002. This article speaks to the emerging literature on the impact of labor market dualization on welfare regimes around the world.
 </details>
 
 
