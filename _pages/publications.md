@@ -36,7 +36,7 @@ Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
 `Abstract` How does the ideology and institutional organization of authoritarian regimes affect processes of democratization? Class-based analyses of democratic transitions focus on how the poor mobilize against the rich to press for democratization under right-wing authoritarian regimes (Boix 2003, Acemoglu and Robinson 2006). While these models do much to further our understanding of democratization, they neither empirically verify the uniqueness of their claims for right-wing regimes nor take into account the role of institutions in dictatorships. In this paper, dictatorial institutions are brought to the fore in explaining patterns of regime transitions. Our theory establishes that the effect of these institutions will be conditional on the ideology of the regime. Faced with a high revolutionary threat posed by the poor, right-wing dictatorships endowed with political institutions (political parties and legislature) that enable lower-income sectors to secure redistributive policies are less likely to democratize (and more likely to survive). These institutions serve to maintain redistributive transfers even when the revolutionary threat of the poor diminishes. We provide evidence of these claims using original data on the ideological orientation of all dictatorships during the 1960-2008 period.
 </details>
 
-`Keywords` 
+`Keywords` democratization, right-wing dictatorships, redistributive transfers
 
 
 # Work in Progress
