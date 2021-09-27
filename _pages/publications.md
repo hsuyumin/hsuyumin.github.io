@@ -9,8 +9,9 @@ redirect_from:
 
 ------
 # Conference & Working Papers
+--------------
 
-## Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations
+### Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations
 
 Paper presented at [APSA 2021](https://tinyurl.com/yxkzhqfs) and MPSA 2021; [APOSS Webinar](https://aposs.cc/schedule/appease-workers-without-losses-autocracy-and-progressive-labor-regulations-by-hsu-yumin-wang/)
 
@@ -19,7 +20,7 @@ Under what conditions would dictators improve labor regulations? It is well esta
 
 `Keywords` authoritarianism, labor regulations, redistributive politics, judicial effectiveness
 
-## Centralization, Elite Capture, and Service Provision: Evidence from Taiwan
+### Centralization, Elite Capture, and Service Provision: Evidence from Taiwan
 
 Paper presented at [APSA 2021](https://tinyurl.com/yzb568ue) and MPSA 2021.
 
@@ -27,12 +28,15 @@ Paper presented at [APSA 2021](https://tinyurl.com/yzb568ue) and MPSA 2021.
 
 `Keywords` centralization, elite capture, public service provision, difference-in-differences
 
-## Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm)) (Under Review)
+### Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm)) (Under Review)
 
 Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
 
 `Abstract` How does the ideology and institutional organization of authoritarian regimes affect processes of democratization? Class-based analyses of democratic transitions focus on how the poor mobilize against the rich to press for democratization under right-wing authoritarian regimes (Boix 2003, Acemoglu and Robinson 2006). While these models do much to further our understanding of democratization, they neither empirically verify the uniqueness of their claims for right-wing regimes nor take into account the role of institutions in dictatorships. In this paper, dictatorial institutions are brought to the fore in explaining patterns of regime transitions. Our theory establishes that the effect of these institutions will be conditional on the ideology of the regime. Faced with a high revolutionary threat posed by the poor, right-wing dictatorships endowed with political institutions (political parties and legislature) that enable lower-income sectors to secure redistributive policies are less likely to democratize (and more likely to survive). These institutions serve to maintain redistributive transfers even when the revolutionary threat of the poor diminishes. We provide evidence of these claims using original data on the ideological orientation of all dictatorships during the 1960-2008 period.
 </details>
+
+`Keywords` 
+
 
 # Work in Progress
 
@@ -45,19 +49,23 @@ Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
 
 # Pre-Doctoral Work
 
-## Organized Labor as Obstacles to Redistribution: Inequality, Dualization and Redistributive Spending in Developing Countries
+### Organized Labor as Obstacles to Redistribution: Inequality, Dualization and Redistributive Spending in Developing Countries
+
 Master Thesis. DOI: [10.6342/NTU201801462](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107201817083900)
+
 Paper presented at APSA 2016; MPSA 2016.
 
 <details>
-  <summary>Show Abstract</summary>
+  <summary> Show Abstract & Keywords </summary>
   
-  Why do some countries redistribute more than others? So far, much of extant work has been confined to the developed countries. This study aims to overcome that drawback, situating this puzzle within the developing world. My argument builds on the reality characterizes most of developing countries: the large size of the informal sector. Combining insider-outsider theory and Meltzer and Richard model, I argue that formal sector workers impede expanding redistributive policies as economic inequality worsens. Labor divide stemming from the segmentation between formal sector and informal sector workers suggests that their preferences for redistributive policies may be different. Furthermore, rising inequality polarizes the discrepancies as a result of more redistribution demanded by the median voter who would be, with high probability, the informal sector worker. In turn, labor market insiders may hinder further redistribution as inequality rises because they may suffer from more taxation to finance more redistributive spending. I buttress this argument by time-series cross-section data covering 18 Latin American countries from 1985 to 2002. This article speaks to the emerging literature on the impact of labor market dualization on welfare regimes around the world.
+  `Abstract`   Why do some countries redistribute more than others? So far, much of extant work has been confined to the developed countries. This study aims to overcome that drawback, situating this puzzle within the developing world. My argument builds on the reality characterizes most of developing countries: the large size of the informal sector. Combining insider-outsider theory and Meltzer and Richard model, I argue that formal sector workers impede expanding redistributive policies as economic inequality worsens. Labor divide stemming from the segmentation between formal sector and informal sector workers suggests that their preferences for redistributive policies may be different. Furthermore, rising inequality polarizes the discrepancies as a result of more redistribution demanded by the median voter who would be, with high probability, the informal sector worker. In turn, labor market insiders may hinder further redistribution as inequality rises because they may suffer from more taxation to finance more redistributive spending. I buttress this argument by time-series cross-section data covering 18 Latin American countries from 1985 to 2002. This article speaks to the emerging literature on the impact of labor market dualization on welfare regimes around the world.
+  
+  `Keywords` Inequality; Working Class Divide; Redistribution; Truncated Welfare States; Informality; Latin America; Time-Series Cross-Section Data Analysis
 </details>
 
-`Keywords` Inequality; Working Class Divide; Redistribution; Truncated Welfare States; Informality; Latin America; Time-Series Cross-Section Data Analysis
 
-## The Judicial Sources of Programmatic Politics? How Judicial Independence Curbs Clientelism
+
+### The Judicial Sources of Programmatic Politics? How Judicial Independence Curbs Clientelism
 
 Paper presented at MPSA 2017.
 
