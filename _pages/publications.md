@@ -7,6 +7,10 @@ redirect_from:
   - /publications
 ---
 
+
+{% include toc %}
+
+
 ------
 # Conference & Working Papers
 --------------
