@@ -50,9 +50,13 @@ Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
 
 # Pre-Doctoral Work
 
-### Organized Labor as Obstacles to Redistribution: Inequality, Dualization and Redistributive Spending in Developing Countries
 
-Master's Thesis. [`DOI: 10.6342/NTU201801462`](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107201817083900)
+
+## Organized Labor as Obstacles to Redistribution: Inequality, Dualization and Redistributive Spending in Developing Countries
+
+Master's Thesis. 
+
+[`DOI: 10.6342/NTU201801462`](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107201817083900)
 
 Paper presented at APSA 2016; MPSA 2016.
 
@@ -63,8 +67,7 @@ Paper presented at APSA 2016; MPSA 2016.
 </details>
 
 
-
-### The Judicial Sources of Programmatic Politics? How Judicial Independence Curbs Clientelism
+## The Judicial Sources of Programmatic Politics? How Judicial Independence Curbs Clientelism
 
 Paper presented at MPSA 2017.
 
