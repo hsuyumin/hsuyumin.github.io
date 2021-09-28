@@ -56,28 +56,24 @@ Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
 
 
 
-### Organized Labor as Obstacles to Redistribution: Inequality, Dualization and Redistributive Spending in Developing Countries
+* **Organized Labor as Obstacles to Redistribution: Inequality, Dualization and Redistributive Spending in Developing Countries**
+  * Master's Thesis. 
+  * [`DOI: 10.6342/NTU201801462`](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107201817083900)
+  * Paper presented at APSA 2016; MPSA 2016.
+    
+    <details>
+      <summary>Show Abstract</summary>
 
-Master's Thesis. 
-
-[`DOI: 10.6342/NTU201801462`](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107201817083900)
-
-Paper presented at APSA 2016; MPSA 2016.
-
-<details>
-  <summary>Show Abstract</summary>
-
-  Why do some countries redistribute more than others? So far, much of extant work has been confined to the developed countries. This study aims to overcome that drawback, situating this puzzle within the developing world. My argument builds on the reality characterizes most of developing countries: the large size of the informal sector. Combining insider-outsider theory and Meltzer and Richard model, I argue that formal sector workers impede expanding redistributive policies as economic inequality worsens. Labor divide stemming from the segmentation between formal sector and informal sector workers suggests that their preferences for redistributive policies may be different. Furthermore, rising inequality polarizes the discrepancies as a result of more redistribution demanded by the median voter who would be, with high probability, the informal sector worker. In turn, labor market insiders may hinder further redistribution as inequality rises because they may suffer from more taxation to finance more redistributive spending. I buttress this argument by time-series cross-section data covering 18 Latin American countries from 1985 to 2002. This article speaks to the emerging literature on the impact of labor market dualization on welfare regimes around the world.
-</details>
+      Why do some countries redistribute more than others? So far, much of extant work has been confined to the developed countries. This study aims to overcome that drawback, situating this puzzle within the developing world. My argument builds on the reality characterizes most of developing countries: the large size of the informal sector. Combining insider-outsider theory and Meltzer and Richard model, I argue that formal sector workers impede expanding redistributive policies as economic inequality worsens. Labor divide stemming from the segmentation between formal sector and informal sector workers suggests that their preferences for redistributive policies may be different. Furthermore, rising inequality polarizes the discrepancies as a result of more redistribution demanded by the median voter who would be, with high probability, the informal sector worker. In turn, labor market insiders may hinder further redistribution as inequality rises because they may suffer from more taxation to finance more redistributive spending. I buttress this argument by time-series cross-section data covering 18 Latin American countries from 1985 to 2002. This article speaks to the emerging literature on the impact of labor market dualization on welfare regimes around the world.
+    </details>
 
 
-### The Judicial Sources of Programmatic Politics? How Judicial Independence Curbs Clientelism
+* **The Judicial Sources of Programmatic Politics? How Judicial Independence Curbs Clientelism**
+  * Paper presented at MPSA 2017.
 
-Paper presented at MPSA 2017.
+    <details>
+      <summary>Show Abstract</summary>
 
-<details>
-  <summary>Show Abstract</summary>
-
-What accounts for transitions from clientelism to programmatic politics? In line with existing dominant approach focusing on increasing electoral costs of clientelism triggered by transformation of economic structure such as economic development, mass education, urbanization, and neoliberal reform, we consider another source of costs neglected by extant literature: judicial independence. We argue that progress in judicial independence, through empowering three sets of agents—liberal judges and prosecutors, opposition parties, and critical citizens, makes it more likely that clientelistic politicians who appropriate public resources and buy votes illegally will be sanctioned by the independent courts. As such, judicial independence serves as an important momemtum that makes it difficult for the functioning of clientelism and thus pave the way for programmatic politics. Our empirical examination is twofold. First, we conduct cross-national analysis using Democratic Accountability and Linkages Project (DALP). Second, we test our argument using time-series cross-section data from V-Dem with 117 countries from 1971 to 1999. The statistical results lend support to our theoretical expectation: judicial independence hampers clientelism (in cross-sectional analysis) and is positive to programmatic linkages (in TSCS analysis). This article contributes to the emergent literature on varieties of democratic linkages.
-</details>
+    What accounts for transitions from clientelism to programmatic politics? In line with existing dominant approach focusing on increasing electoral costs of clientelism triggered by transformation of economic structure such as economic development, mass education, urbanization, and neoliberal reform, we consider another source of costs neglected by extant literature: judicial independence. We argue that progress in judicial independence, through empowering three sets of agents—liberal judges and prosecutors, opposition parties, and critical citizens, makes it more likely that clientelistic politicians who appropriate public resources and buy votes illegally will be sanctioned by the independent courts. As such, judicial independence serves as an important momemtum that makes it difficult for the functioning of clientelism and thus pave the way for programmatic politics. Our empirical examination is twofold. First, we conduct cross-national analysis using Democratic Accountability and Linkages Project (DALP). Second, we test our argument using time-series cross-section data from V-Dem with 117 countries from 1971 to 1999. The statistical results lend support to our theoretical expectation: judicial independence hampers clientelism (in cross-sectional analysis) and is positive to programmatic linkages (in TSCS analysis). This article contributes to the emergent literature on varieties of democratic linkages.
+    </details>
 
