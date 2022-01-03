@@ -33,6 +33,27 @@ Few theoretical debates in comparative political economy are as controversial as
 
 `Keywords` centralization, elite capture, public service provision, difference-in-differences
 
+## A Latent Variable Approach to Measuring Mass Threats in Nondemocracies
+
+Poster presented at [Asian PolMeth 2022](https://asianpolmeth.github.io/AsianPolmeth2022/index.html)
+
+`Abstract` 
+
+Mass threat is a critical factor in explaining regime change and various political outcomes of authoritarian politics. However, the literature to date is divided over how to measure it in cross-national settings. To measure mass threats, numerous prior studies rely on measures related to economic grievances, whereas others emphasize the aspect of organizational capacity of mass mobilization. Additionally, substantial missing data remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies that seeks to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 138 authoritarian countries from 1970 to 2008. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
+
+`Keywords` Bayesian, item response theory, latent variable models, mass threats, authoritarian control
+
+## Exploring the Microfoundations of the Link between Regressive Taxation and the Welfare State: Experimental Evidence from the United States
+
+Paper to be presented at MPSA 2022
+
+`Abstract` 
+
+Comparative research shows that the state has increasingly financed social policy through regressive taxation, but the literature has yet to pay close attention to unpacking the microfoundations underlying this pattern. This paper explores the sources of micro-level support for the use of regressive taxation to fund social policy in America, where sales taxes account for nearly one-third of state government revenue and the majority of local citizens at times approve sales tax ballot measures. This paper argues that equal treatment norm and a lack of information about the redistributive consequences of sales taxes may explain the support and employs a survey experiment to test the two explanations. While experimental results provide little evidence for the effect of equal treatment norm, providing information about the redistributive consequences of sales taxes has a negative effect on the support, and such an effect is moderated by respondents’ income level. These findings contribute to the growing literature on the (micro) politics of regressive taxation as well as how tax structure and economic misperceptions affect support for redistribution.
+
+`Keywords` regressive taxation, information provision, redistribution, survey experiment
+
+
 ## Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm)) (Under Review)
 
 Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
@@ -49,11 +70,10 @@ Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
 
 - Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai (with [Eddy Yeung](https://eddy-yeung.github.io/))
 
-- Exploring the Microfoundations of the Link between Regressive Taxation and Welfare State
+- Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China” (with Stefano Jud and Will Giles)
 
 
 # Pre-Doctoral Work
-
 
 
 * **Organized Labor as Obstacles to Redistribution: Inequality, Dualization and Redistributive Spending in Developing Countries**
