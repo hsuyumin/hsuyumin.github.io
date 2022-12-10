@@ -4,9 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-&nbsp;
-&nbsp;
+{% include base_path %}
 
+&nbsp;
+&nbsp;
 
 # Experiences
 
@@ -17,6 +18,9 @@ author_profile: true
 
 ## [Institute of Political Science, Academia Sinica](https://www.ipsas.sinica.edu.tw/en/)
 * Teaching Assistant, [Institute for Political Methodology Summer Program](http://www.ipmasia.org/), 2022 Summer (U, G)
+
+&nbsp;
+&nbsp;
 
 # Related Documents
 Please [email me](mailto:hsu.yumin.wang@emory.edu) for the latest documents.
