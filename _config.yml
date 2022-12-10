@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Hsu Yumin WANG"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate in the Department of Political Science at Emory University"
+  bio              : "PhD candidate at Emory University"
   location         : "Atlanta, GA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "hsu.yumin.wang@emory.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.tw/citations?user=OcNF_KIAAAAJ&hl=en"
+  email            : 
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5779-9659"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "HsuEmerson"
+  twitter          : "hsuyumin"
   vine             :
   weibo            :
   xing             :
@@ -309,3 +309,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+# Site masthead title
+masthead_title: "Hsu Yumin WANG"
