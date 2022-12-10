@@ -3,12 +3,10 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+toc: true
 redirect_from:
   - /publications
 ---
-
-
-{% include toc %}
 
 
 ------
