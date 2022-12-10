@@ -10,6 +10,9 @@ redirect_from:
 
 # Conference & Working Papers
 
+
+
+
 ## Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations
 * Status: Revise and Resubmit.
 * Paper presented at APSA 2021 and MPSA 2021; [APOSS Webinar](https://aposs.cc/schedule/appease-workers-without-losses-autocracy-and-progressive-labor-regulations-by-hsu-yumin-wang/).
