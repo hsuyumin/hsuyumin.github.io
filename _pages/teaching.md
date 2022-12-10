@@ -11,6 +11,7 @@ author_profile: true
 # Experiences
 
 ## [Department of Political Science, Emory University](http://polisci.emory.edu/home/)
+* _Methodology Consultant_, 2022 Fall (G)
 * _Co-instructor_, POLS 385: Comparative Political Economy, 2022 Spring (U)
 * _Instructor_, Introduction to R for Data Manipulation and Analysis, 2021 Winter (G)
 * _Teaching Assistant_, POLS 208: Research Design and Methods, 2021 Spring (U)
