@@ -8,10 +8,7 @@ redirect_from:
   - /publications
 ---
 
-
-------
 # Conference & Working Papers
---------------
 
 ## Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations
 * Status: Revise and Resubmit.
