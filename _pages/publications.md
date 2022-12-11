@@ -31,7 +31,7 @@ Few theoretical debates in comparative political economy are as controversial as
 
 `Keywords` centralization, elite capture, public service provision, difference-in-differences
 
-## Exploring the Microfoundations of the Link between Regressive Taxation and the Welfare State: Experimental Evidence from the United States
+## Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States
 * Status: Revise and Resubmit.
 * Paper to be presented at MPSA 2022
 
@@ -41,7 +41,6 @@ Comparative research shows that the state has increasingly financed social polic
 `Keywords` regressive taxation, information provision, redistribution, survey experiment
 
 ## Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm))
-* Status: Under Review.
 * Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
 
 `Abstract` 
