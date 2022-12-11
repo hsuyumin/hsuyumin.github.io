@@ -20,7 +20,7 @@ redirect_from:
 `Abstract` 
 Under what conditions would dictators enact labor legislation that protects workers? Conventional wisdom suggests that heightened mass discontent propels dictators to make policy concessions to buy off revolutionary threats. However, a more protective labor law may decrease elites' economic benefits and thus loyalty to the incumbent regime. I argue that limited judicial independence helps dictators control distributional outcomes of the law and therefore better respond to the twin challenges magnified by labor reforms. I test this argument by conducting a time-series cross-sectional analysis covering 68 autocracies from 1970 to 2008. I then offer an illustrative case from the 2008 Labor Contract Law in China to illuminate how a dependent judiciary provides autocrats with more leeway to balance the interests of elites and the masses. This paper sheds light on authoritarian survival strategies in the shadow of distributive tensions.
 
-`Keywords` authoritarianism, labor regulations, redistributive politics, judicial effectiveness
+`Keywords` authoritarianism, labor regulations, distributive conflicts, judicial independence, China
 
 ## Centralization, Elite Capture, and Service Provision: Evidence from Taiwan
 * Status: Revise and Resubmit.
@@ -38,7 +38,7 @@ Much recent work has debated the effect of decentralization on service provision
 `Abstract` 
 Regressive taxation has increasingly played an important role in financing public programs, but current scholarship remains largely silent on the conditions under which people would support such financing strategies. This paper fills this gap by focusing on the United States, where sales taxes account for nearly one-third of state government revenue, and where sales tax ballot measures have received majority support. This paper utilizes an online survey experiment to examine two potential sources of public support for a sales tax increase: equal treatment beliefs (i.e., that all should pay the same tax rate) and a lack of public awareness of the distributive consequences of sales taxes. I find that exposure to information about sales taxes' distributive consequences significantly reduced respondents' support for a sales tax increase, but that equal treatment beliefs had no significant effect on such support. Additional analyses suggest that other-regarding motivations are a plausible mechanism underlying the effects of information provision. These findings shed light on how misperceptions of tax burdens shape support for regressive taxation and have broad implications for the role of fairness beliefs in the formation of tax policy preferences.
 
-`Keywords` regressive taxation, information provision, redistribution, survey experiment
+`Keywords` regressive taxation, information provision, equal treatment, redistribution preferences, survey experiment
 
 ## Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm))
 * Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
