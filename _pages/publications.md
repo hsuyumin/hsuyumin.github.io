@@ -23,7 +23,7 @@ Under what conditions would dictators enact labor legislation that protects work
 `Keywords` authoritarianism, labor regulations, distributive conflicts, judicial independence, China
 
 ## Centralization, Elite Capture, and Service Provision: Evidence from Taiwan
-* Status: Revise and Resubmit.
+* Status: conditionally accepted at _Comparative Political Studies_
 * Paper presented at APSA 2021 and MPSA 2021.
 
 `Abstract` 
