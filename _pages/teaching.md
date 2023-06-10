@@ -27,7 +27,7 @@ My co-taught course evaluation for "Comparative Political Economy" and the two p
 # Related Documents
 Please [email me](mailto:hsu.yumin.wang@emory.edu) for the latest documents.
 
-* Teaching Statement (Nov 2022)
-* Teaching Evaluation (Nov 2022)
+* Teaching Statement 
+* Teaching Evaluation for Comparative Political Economy
 * Proposed Syllabus I: Introduction of Comparative Politics (ver: Nov 2022)
 * Proposed Syllabus II: Politics of Inequality (ver: Nov 2022)
