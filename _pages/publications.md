@@ -17,8 +17,11 @@ redirect_from:
 * Status: Revise and Resubmit.
 * Paper presented at APSA 2021 and MPSA 2021; [APOSS Webinar](https://aposs.cc/schedule/appease-workers-without-losses-autocracy-and-progressive-labor-regulations-by-hsu-yumin-wang/).
 
-`Abstract` 
-Under what conditions would dictators enact labor legislation that protects workers? Conventional wisdom suggests that heightened mass discontent propels dictators to make policy concessions to buy off revolutionary threats. However, a more protective labor law may decrease elites' economic benefits and thus loyalty to the incumbent regime. I argue that limited judicial independence helps dictators control distributional outcomes of the law and therefore better respond to the twin challenges magnified by labor reforms. I test this argument by conducting a time-series cross-sectional analysis covering 68 autocracies from 1970 to 2008. I then offer an illustrative case from the 2008 Labor Contract Law in China to illuminate how a dependent judiciary provides autocrats with more leeway to balance the interests of elites and the masses. This paper sheds light on authoritarian survival strategies in the shadow of distributive tensions.
+    <details>
+      <summary>Show Abstract</summary>
+
+      Under what conditions would dictators enact labor legislation that protects workers? Conventional wisdom suggests that heightened mass discontent propels dictators to make policy concessions to buy off revolutionary threats. However, a more protective labor law may decrease elites' economic benefits and thus loyalty to the incumbent regime. I argue that limited judicial independence helps dictators control distributional outcomes of the law and therefore better respond to the twin challenges magnified by labor reforms. I test this argument by conducting a time-series cross-sectional analysis covering 68 autocracies from 1970 to 2008. I then offer an illustrative case from the 2008 Labor Contract Law in China to illuminate how a dependent judiciary provides autocrats with more leeway to balance the interests of elites and the masses. This paper sheds light on authoritarian survival strategies in the shadow of distributive tensions.
+    </details>
 
 `Keywords` authoritarianism, labor regulations, distributive conflicts, judicial independence, China
 
@@ -26,8 +29,11 @@ Under what conditions would dictators enact labor legislation that protects work
 * Status: conditionally accepted at _Comparative Political Studies_
 * Paper presented at APSA 2021 and MPSA 2021.
 
-`Abstract` 
-Much recent work has debated the effect of decentralization on service provision, its underlying mechanisms, and the tradeoff between responsiveness and elite capture. This study contributes to that debate by investigating a rare partial rollout of institutional change that reversed administrative, fiscal, and political decentralization in Taiwan. Utilizing a difference-in-differences design, I find that centralization, on average, decreases public goods provision by roughly 40% of a within-unit standard deviation. Additional evidence related to mechanisms suggests that the loss of proximity and accountability in service delivery after centralization can be critical. The effect heterogeneity results do not constitute strong evidence that centralization significantly improves service provision in areas with higher levels of local elite capture. These findings highlight the importance of decentralization's responsiveness advantages in improving local service provision and advance the policy debate on local institutional choice.
+    <details>
+      <summary>Show Abstract</summary>
+
+      Much recent work has debated the effect of decentralization on service provision, its underlying mechanisms, and the tradeoff between responsiveness and elite capture. This study contributes to that debate by investigating a rare partial rollout of institutional change that reversed administrative, fiscal, and political decentralization in Taiwan. Utilizing a difference-in-differences design, I find that centralization, on average, decreases public goods provision by roughly 40% of a within-unit standard deviation. Additional evidence related to mechanisms suggests that the loss of proximity and accountability in service delivery after centralization can be critical. The effect heterogeneity results do not constitute strong evidence that centralization significantly improves service provision in areas with higher levels of local elite capture. These findings highlight the importance of decentralization's responsiveness advantages in improving local service provision and advance the policy debate on local institutional choice.
+    </details>
 
 `Keywords` centralization, elite capture, public service provision, difference-in-differences
 
@@ -35,16 +41,22 @@ Much recent work has debated the effect of decentralization on service provision
 * Status: Revise and Resubmit.
 * Paper to be presented at MPSA 2022
 
-`Abstract` 
-Regressive taxation has increasingly played an important role in financing public programs, but current scholarship remains largely silent on the conditions under which people would support such financing strategies. This paper fills this gap by focusing on the United States, where sales taxes account for nearly one-third of state government revenue, and where sales tax ballot measures have received majority support. This paper utilizes an online survey experiment to examine two potential sources of public support for a sales tax increase: equal treatment beliefs (i.e., that all should pay the same tax rate) and a lack of public awareness of the distributive consequences of sales taxes. I find that exposure to information about sales taxes' distributive consequences significantly reduced respondents' support for a sales tax increase, but that equal treatment beliefs had no significant effect on such support. Additional analyses suggest that other-regarding motivations are a plausible mechanism underlying the effects of information provision. These findings shed light on how misperceptions of tax burdens shape support for regressive taxation and have broad implications for the role of fairness beliefs in the formation of tax policy preferences.
+    <details>
+      <summary>Show Abstract</summary>
+
+      Regressive taxation has increasingly played an important role in financing public programs, but current scholarship remains largely silent on the conditions under which people would support such financing strategies. This paper fills this gap by focusing on the United States, where sales taxes account for nearly one-third of state government revenue, and where sales tax ballot measures have received majority support. This paper utilizes an online survey experiment to examine two potential sources of public support for a sales tax increase: equal treatment beliefs (i.e., that all should pay the same tax rate) and a lack of public awareness of the distributive consequences of sales taxes. I find that exposure to information about sales taxes' distributive consequences significantly reduced respondents' support for a sales tax increase, but that equal treatment beliefs had no significant effect on such support. Additional analyses suggest that other-regarding motivations are a plausible mechanism underlying the effects of information provision. These findings shed light on how misperceptions of tax burdens shape support for regressive taxation and have broad implications for the role of fairness beliefs in the formation of tax policy preferences.
+    </details>
 
 `Keywords` regressive taxation, information provision, equal treatment, redistribution preferences, survey experiment
 
 ## Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm))
 * Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
 
-`Abstract` 
-How does the ideology and institutional organization of authoritarian regimes affect processes of democratization? Class-based analyses of democratic transitions focus on how the poor mobilize against the rich to press for democratization under right-wing authoritarian regimes (Boix 2003, Acemoglu and Robinson 2006). While these models do much to further our understanding of democratization, they neither empirically verify the uniqueness of their claims for right-wing regimes nor take into account the role of institutions in dictatorships. In this paper, dictatorial institutions are brought to the fore in explaining patterns of regime transitions. Our theory establishes that the effect of these institutions will be conditional on the ideology of the regime. Faced with a high revolutionary threat posed by the poor, right-wing dictatorships endowed with political institutions (political parties and legislature) that enable lower-income sectors to secure redistributive policies are less likely to democratize (and more likely to survive). These institutions serve to maintain redistributive transfers even when the revolutionary threat of the poor diminishes. We provide evidence of these claims using original data on the ideological orientation of all dictatorships during the 1960-2008 period.
+    <details>
+      <summary>Show Abstract</summary>
+
+      How does the ideology and institutional organization of authoritarian regimes affect processes of democratization? Class-based analyses of democratic transitions focus on how the poor mobilize against the rich to press for democratization under right-wing authoritarian regimes (Boix 2003, Acemoglu and Robinson 2006). While these models do much to further our understanding of democratization, they neither empirically verify the uniqueness of their claims for right-wing regimes nor take into account the role of institutions in dictatorships. In this paper, dictatorial institutions are brought to the fore in explaining patterns of regime transitions. Our theory establishes that the effect of these institutions will be conditional on the ideology of the regime. Faced with a high revolutionary threat posed by the poor, right-wing dictatorships endowed with political institutions (political parties and legislature) that enable lower-income sectors to secure redistributive policies are less likely to democratize (and more likely to survive). These institutions serve to maintain redistributive transfers even when the revolutionary threat of the poor diminishes. We provide evidence of these claims using original data on the ideological orientation of all dictatorships during the 1960-2008 period.
+    </details>
 
 `Keywords` class conflict, democratization, ideological dictatorship, authoritarian institutions
 
@@ -52,8 +64,11 @@ How does the ideology and institutional organization of authoritarian regimes af
 * Status: Under Review.
 * Poster presented at MPSA 2022.
 
-`Abstract` 
-Are international courts effective in changing state behavior and fostering international cooperation? Conventional wisdom suggests that international courts can promote cooperation since governments suffer domestic audience costs from non-compliance. Despite the possibility of audience costs, there are still many governments refusing to comply with decisions of international courts. We argue that this is because unfavorable rulings can spark domestic backlash among citizens against international courts. As a result, non-compliance should increase domestic support, especially amongst highly-nationalistic individuals. We tested the argument using a conjoint survey experiment in China where we exposed respondents to a hypothetical case where the International Court of Justice (ICJ) issued an unfavorable ruling against China. We find that citizens prefer that the Chinese government does not comply with the ruling and these preferences are significantly stronger among individuals with strong nationalist sentiment. The results of our experiment highlight that, contrary to previous literature, international courts may not always induce international cooperation.
+    <details>
+      <summary>Show Abstract</summary>
+
+      Are international courts effective in changing state behavior and fostering international cooperation? Conventional wisdom suggests that international courts can promote cooperation since governments suffer domestic audience costs from non-compliance. Despite the possibility of audience costs, there are still many governments refusing to comply with decisions of international courts. We argue that this is because unfavorable rulings can spark domestic backlash among citizens against international courts. As a result, non-compliance should increase domestic support, especially amongst highly-nationalistic individuals. We tested the argument using a conjoint survey experiment in China where we exposed respondents to a hypothetical case where the International Court of Justice (ICJ) issued an unfavorable ruling against China. We find that citizens prefer that the Chinese government does not comply with the ruling and these preferences are significantly stronger among individuals with strong nationalist sentiment. The results of our experiment highlight that, contrary to previous literature, international courts may not always induce international cooperation.
+    </details>
 
 `Keywords` audience costs, International Court of Justice (ICJ), authoritarian institutions
 
@@ -61,8 +76,11 @@ Are international courts effective in changing state behavior and fostering inte
 
 * Poster presented at [Asian PolMeth 2022](https://asianpolmeth.github.io/AsianPolmeth2022/index.html)
 
-`Abstract` 
-Mass threat is a critical factor in explaining regime change and various political outcomes of authoritarian politics. However, the literature to date is divided over how to measure it in cross-national research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies that seeks to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
+    <details>
+      <summary>Show Abstract</summary>
+
+      Mass threat is a critical factor in explaining regime change and various political outcomes of authoritarian politics. However, the literature to date is divided over how to measure it in cross-national research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies that seeks to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
+    </details>
 
 `Keywords` Bayesian, item response theory, latent variable models, mass threats, authoritarian control
 
