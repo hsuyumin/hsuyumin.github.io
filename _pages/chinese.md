@@ -7,4 +7,4 @@ redirect_from:
   - /chinese
 ---
 
-# 中文
+中文
