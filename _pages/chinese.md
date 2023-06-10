@@ -4,7 +4,7 @@ permalink: /chinese/
 title: "中文"
 author_profile: true
 redirect_from:
-  - /chinese/
+  - /chinese
 ---
 
-中文
+# 中文
