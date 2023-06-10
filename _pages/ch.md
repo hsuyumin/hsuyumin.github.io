@@ -1,11 +1,10 @@
 ---
 layout: archive
+permalink: /ch/
 title: "中文"
-permalink: /chinese/
 author_profile: true
-toc: true
 redirect_from:
-  - /chinese
+  - /ch/
 ---
-&nbsp;
-&nbsp;
+
+中文
