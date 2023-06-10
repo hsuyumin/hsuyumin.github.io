@@ -1,11 +1,8 @@
 ---
 layout: archive
-title: "Data"
 permalink: /data/
+title: "Data"
 author_profile: true
-toc: true
 redirect_from:
-  - /data
+  - /data/
 ---
-&nbsp;
-&nbsp;
