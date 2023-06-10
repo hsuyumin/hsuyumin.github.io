@@ -16,7 +16,6 @@ redirect_from:
 
 ## Wang, Hsu Yumin. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations." _Journal of Comparative Politics_.
 * Keywords: authoritarianism, labor regulations, distributive conflicts, judicial independence, China
-* Paper presented at APSA 2021 and MPSA 2021; [APOSS Webinar](https://aposs.cc/schedule/appease-workers-without-losses-autocracy-and-progressive-labor-regulations-by-hsu-yumin-wang/).
 
     <details>
       <summary>Show Abstract</summary>
@@ -27,7 +26,6 @@ redirect_from:
     
 ## Wang, Hsu Yumin. Forthcoming. "Centralization, Elite Capture, and Service Provision: Evidence from Taiwan." _Comparative Political Studies_.
 * Keywords: centralization, elite capture, public service provision, difference-in-differences
-* Paper presented at APSA 2021 and MPSA 2021.
 
     <details>
       <summary>Show Abstract</summary>
@@ -39,11 +37,17 @@ redirect_from:
 
 # Working Papers
 
+## Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies (with [Eddy Yeung](https://eddy-yeung.github.io/)) (R&R)
+* Keywords: autocratic politics, redistribution, propaganda, udnerstandings of democracy, survey experiment
 
-## Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States
+    <details>
+      <summary>Show Abstract</summary>
+
+      Autocrats often produce and disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation to account for this phenomenon: redistributionist propaganda helps autocrats create and consolidate a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Taking advantage of such nuanced understandings of democracy, autocrats can then deploy redistributionist propaganda to manipulate public opinion on how ``equity-promoting''---and therefore how ``democracy-promoting''---the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among the mass public. We then probe the causal impact of redistributionist propaganda by using an original survey experiment that exploits real-world propaganda material in China, where redistributionist propaganda is widespread under President Xi. This registered report outlines our argument and preregisters our hypotheses, estimation strategies, and inferential rules for the survey experiment. We also discuss the contributions and implications of our study.
+    </details>
+
+## Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States (R&R)
 * Keywords: regressive taxation, information provision, equal treatment, redistribution preferences, survey experiment
-* Status: Revise and Resubmit.
-* Paper presented at MPSA 2022.
 
     <details>
       <summary>Show Abstract</summary>
@@ -52,10 +56,19 @@ redirect_from:
     </details>
 
 
+## Mass Political Consequences of Partially-Implemented Redistribution: Evidence from China
+* Keywords: authoritarian politics, redistribution, labor law, China, survey experiment
+
+    <details>
+      <summary>Show Abstract</summary>
+
+      It is widely recognized that authoritarian rulers can stem mass discontent and garner political support by introducing progressive redistributive programs. However, this characterization often overlooks the reality that many of the programs are partially implemented and thereby may not live up to popular expectations. What is the effect of partial redistribution on regime support? This paper seeks to answer this question by focusing on China's 2008 Labor Contract Law, whose policy promises are often compromised in the process of judicial enforcement. I argue that the effect of partial redistribution can be decomposed into two components: backlash against unmet expectations and gains over status quo. Through a pre-registered online survey experiment, Through a pre-registered online survey experiment, I offer, to my knowledge, the first experimental test on the effect of partially-implemented redistribution. I find that partial redistribution is neither beneficial nor harmful to regime support. Further analysis suggests that partial redistribution, provided it still delivers benefits, can mitigate the backlash resulting from unfulfilled expectations, leading to more mixed and ambivalent attitudes towards the regime among the public. This study contributes to our understanding of the dynamics of authoritarian control and mass political effects of redistribution.
+
+    </details>
+
 
 ## A Latent Variable Approach to Measuring Mass Threats in Nondemocracies
 * Keywords: Bayesian, item response theory, latent variable models, mass threats, authoritarian control
-* Paper presented at SPSA 2023. Poster presented at [Asian PolMeth 2022](https://asianpolmeth.github.io/AsianPolmeth2022/index.html)
 
     <details>
       <summary>Show Abstract</summary>
@@ -67,7 +80,6 @@ redirect_from:
 
 ## Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm))
 * Keywords: class conflict, democratization, ideological dictatorship, authoritarian institutions
-* Paper presented at [ECPR 2020](https://ecpr.eu/Events/Event/PaperDetails/55046).
 
     <details>
       <summary>Show Abstract</summary>
@@ -79,8 +91,6 @@ redirect_from:
 
 ## Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China (with [Stefano Jud](http://stefanojud.com/) and Will Giles)
 * Keywords: audience costs, International Court of Justice (ICJ), authoritarian institutions
-* Status: Under Review.
-* Poster presented at MPSA 2022.
 
     <details>
       <summary>Show Abstract</summary>
@@ -92,8 +102,6 @@ redirect_from:
 
 # Work in Progress
 
-* Mass Political Consequences of Partial Redistribution
-* Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies (with [Eddy Yeung](https://eddy-yeung.github.io/))
 * Understanding Taiwan’s Resilience amid the Threat of War (with [Renard Sexton](https://renardsexton.com/), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Eddy Yeung](https://eddy-yeung.github.io/))
 
 ## Null Results Reports
