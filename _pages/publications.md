@@ -13,6 +13,7 @@ redirect_from:
 ### Wang, Hsu Yumin. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations." _Comparative Politics_.
 
 
+
     <details>
       <summary>Show Abstract</summary>
 
