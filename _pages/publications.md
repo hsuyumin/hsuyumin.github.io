@@ -14,7 +14,7 @@ redirect_from:
 
 # Publications
 
-## Wang, Hsu Yumin. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations." _Journal of Comparative Politics_.
+## Wang, Hsu Yumin. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations." _Comparative Politics_.
 * Keywords: authoritarianism, labor regulations, distributive conflicts, judicial independence, China
 
     <details>
