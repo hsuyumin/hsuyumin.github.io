@@ -10,9 +10,7 @@ redirect_from:
 
 ## Publications
 
-### Wang, Hsu Yumin. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations." _Comparative Politics_.
-
-
+* Wang, Hsu Yumin. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations." _Comparative Politics_.
 
     <details>
       <summary>Show Abstract</summary>
@@ -21,7 +19,7 @@ redirect_from:
     </details>
     
     
-### Wang, Hsu Yumin. Forthcoming. "Centralization, Elite Capture, and Service Provision: Evidence from Taiwan." _Comparative Political Studies_.
+* Wang, Hsu Yumin. Forthcoming. "Centralization, Elite Capture, and Service Provision: Evidence from Taiwan." _Comparative Political Studies_.
 
     <details>
       <summary>Show Abstract</summary>
@@ -33,7 +31,7 @@ redirect_from:
 
 ## Working Papers
 
-### Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies (with [Eddy Yeung](https://eddy-yeung.github.io/)) (R&R)
+* Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies (with [Eddy Yeung](https://eddy-yeung.github.io/)) (R&R)
 
     <details>
       <summary>Show Abstract</summary>
@@ -41,7 +39,7 @@ redirect_from:
       Autocrats often produce and disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation to account for this phenomenon: redistributionist propaganda helps autocrats create and consolidate a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Taking advantage of such nuanced understandings of democracy, autocrats can then deploy redistributionist propaganda to manipulate public opinion on how ``equity-promoting''---and therefore how ``democracy-promoting''---the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among the mass public. We then probe the causal impact of redistributionist propaganda by using an original survey experiment that exploits real-world propaganda material in China, where redistributionist propaganda is widespread under President Xi. This registered report outlines our argument and preregisters our hypotheses, estimation strategies, and inferential rules for the survey experiment. We also discuss the contributions and implications of our study.
     </details>
 
-### Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States (R&R)
+* Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States (R&R)
 
     <details>
       <summary>Show Abstract</summary>
@@ -50,7 +48,7 @@ redirect_from:
     </details>
 
 
-### Mass Political Consequences of Partially-Implemented Redistribution: Evidence from China
+* Mass Political Consequences of Partially-Implemented Redistribution: Evidence from China
 
     <details>
       <summary>Show Abstract</summary>
@@ -60,7 +58,7 @@ redirect_from:
     </details>
 
 
-### A Latent Variable Approach to Measuring Mass Threats in Nondemocracies
+* A Latent Variable Approach to Measuring Mass Threats in Nondemocracies
 
     <details>
       <summary>Show Abstract</summary>
@@ -70,7 +68,7 @@ redirect_from:
 
 
 
-### Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm))
+* Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm))
 
     <details>
       <summary>Show Abstract</summary>
@@ -80,7 +78,7 @@ redirect_from:
 
 
 
-### Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China (with [Stefano Jud](http://stefanojud.com/) and Will Giles)
+* Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China (with [Stefano Jud](http://stefanojud.com/) and Will Giles)
 
     <details>
       <summary>Show Abstract</summary>
@@ -94,10 +92,8 @@ redirect_from:
 
 * Understanding Taiwan’s Resilience amid the Threat of War (with [Renard Sexton](https://renardsexton.com/), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Eddy Yeung](https://eddy-yeung.github.io/))
 
-### Null Results Reports
-
-#### Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai (with [Eddy Yeung](https://eddy-yeung.github.io/))
-* [OSF Preprint](https://osf.io/eymhu/); [Pre-analysis Plan](https://osf.io/fg2d6)
+* **Null Results Reports** Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai (with [Eddy Yeung](https://eddy-yeung.github.io/))
+  * [OSF Preprint](https://osf.io/eymhu/); [Pre-analysis Plan](https://osf.io/fg2d6)
 
     <details>
       <summary>Show Abstract</summary>
