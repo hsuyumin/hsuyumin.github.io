@@ -16,7 +16,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "C.V."
     url: /cv/
     
   - title: "中文"
