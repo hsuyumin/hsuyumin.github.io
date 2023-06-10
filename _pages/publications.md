@@ -10,11 +10,12 @@ redirect_from:
 &nbsp;
 &nbsp;
 
+
+
 # Publications
 
 ## Wang, Hsu Yumin. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations." _Journal of Comparative Politics_.
 * Keywords: authoritarianism, labor regulations, distributive conflicts, judicial independence, China
-* Status: Accepted.
 * Paper presented at APSA 2021 and MPSA 2021; [APOSS Webinar](https://aposs.cc/schedule/appease-workers-without-losses-autocracy-and-progressive-labor-regulations-by-hsu-yumin-wang/).
 
     <details>
@@ -23,9 +24,9 @@ redirect_from:
       Under what conditions would dictators enact labor legislation that protects workers? Conventional wisdom suggests that heightened mass discontent propels dictators to make policy concessions to buy off revolutionary threats. However, a more protective labor law may decrease elites' economic benefits and thus loyalty to the incumbent regime. I argue that limited judicial independence helps dictators control distributional outcomes of the law and therefore better respond to the twin challenges magnified by labor reforms. I test this argument by conducting a time-series cross-sectional analysis covering 68 autocracies from 1970 to 2008. I then offer an illustrative case from the 2008 Labor Contract Law in China to illuminate how a dependent judiciary provides autocrats with more leeway to balance the interests of elites and the masses. This paper sheds light on authoritarian survival strategies in the shadow of distributive tensions.
     </details>
     
+    
 ## Wang, Hsu Yumin. Forthcoming. "Centralization, Elite Capture, and Service Provision: Evidence from Taiwan." _Comparative Political Studies_.
 * Keywords: centralization, elite capture, public service provision, difference-in-differences
-* Status: conditionally accepted at _Comparative Political Studies_
 * Paper presented at APSA 2021 and MPSA 2021.
 
     <details>
@@ -35,7 +36,9 @@ redirect_from:
     </details>
 
 
+
 # Working Papers
+
 
 ## Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States
 * Keywords: regressive taxation, information provision, equal treatment, redistribution preferences, survey experiment
@@ -49,6 +52,7 @@ redirect_from:
     </details>
 
 
+
 ## A Latent Variable Approach to Measuring Mass Threats in Nondemocracies
 * Keywords: Bayesian, item response theory, latent variable models, mass threats, authoritarian control
 * Paper presented at SPSA 2023. Poster presented at [Asian PolMeth 2022](https://asianpolmeth.github.io/AsianPolmeth2022/index.html)
@@ -58,6 +62,7 @@ redirect_from:
 
       Mass threat is a critical factor in explaining regime change and various political outcomes of authoritarian politics. However, the literature to date is divided over how to measure it in cross-national research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies that seeks to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
     </details>
+
 
 
 ## Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm))
@@ -71,6 +76,7 @@ redirect_from:
     </details>
 
 
+
 ## Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China (with [Stefano Jud](http://stefanojud.com/) and Will Giles)
 * Keywords: audience costs, International Court of Justice (ICJ), authoritarian institutions
 * Status: Under Review.
@@ -81,6 +87,7 @@ redirect_from:
 
       Are international courts effective in changing state behavior and fostering international cooperation? Conventional wisdom suggests that international courts can promote cooperation since governments suffer domestic audience costs from non-compliance. Despite the possibility of audience costs, there are still many governments refusing to comply with decisions of international courts. We argue that this is because unfavorable rulings can spark domestic backlash among citizens against international courts. As a result, non-compliance should increase domestic support, especially amongst highly-nationalistic individuals. We tested the argument using a conjoint survey experiment in China where we exposed respondents to a hypothetical case where the International Court of Justice (ICJ) issued an unfavorable ruling against China. We find that citizens prefer that the Chinese government does not comply with the ruling and these preferences are significantly stronger among individuals with strong nationalist sentiment. The results of our experiment highlight that, contrary to previous literature, international courts may not always induce international cooperation.
     </details>
+
 
 
 # Work in Progress
