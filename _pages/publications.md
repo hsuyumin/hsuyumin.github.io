@@ -11,7 +11,7 @@ redirect_from:
 ## Publications
 
 ### Wang, Hsu Yumin. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations." _Comparative Politics_.
-* Keywords: authoritarianism, labor regulations, distributive conflicts, judicial independence, China
+
 
     <details>
       <summary>Show Abstract</summary>
@@ -21,7 +21,6 @@ redirect_from:
     
     
 ### Wang, Hsu Yumin. Forthcoming. "Centralization, Elite Capture, and Service Provision: Evidence from Taiwan." _Comparative Political Studies_.
-* Keywords: centralization, elite capture, public service provision, difference-in-differences
 
     <details>
       <summary>Show Abstract</summary>
@@ -34,7 +33,6 @@ redirect_from:
 ## Working Papers
 
 ### Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies (with [Eddy Yeung](https://eddy-yeung.github.io/)) (R&R)
-* Keywords: autocratic politics, redistribution, propaganda, udnerstandings of democracy, survey experiment
 
     <details>
       <summary>Show Abstract</summary>
@@ -43,7 +41,6 @@ redirect_from:
     </details>
 
 ### Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States (R&R)
-* Keywords: regressive taxation, information provision, equal treatment, redistribution preferences, survey experiment
 
     <details>
       <summary>Show Abstract</summary>
@@ -53,7 +50,6 @@ redirect_from:
 
 
 ### Mass Political Consequences of Partially-Implemented Redistribution: Evidence from China
-* Keywords: authoritarian politics, redistribution, labor law, China, survey experiment
 
     <details>
       <summary>Show Abstract</summary>
@@ -64,7 +60,6 @@ redirect_from:
 
 
 ### A Latent Variable Approach to Measuring Mass Threats in Nondemocracies
-* Keywords: Bayesian, item response theory, latent variable models, mass threats, authoritarian control
 
     <details>
       <summary>Show Abstract</summary>
@@ -75,7 +70,6 @@ redirect_from:
 
 
 ### Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm))
-* Keywords: class conflict, democratization, ideological dictatorship, authoritarian institutions
 
     <details>
       <summary>Show Abstract</summary>
@@ -86,7 +80,6 @@ redirect_from:
 
 
 ### Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China (with [Stefano Jud](http://stefanojud.com/) and Will Giles)
-* Keywords: audience costs, International Court of Justice (ICJ), authoritarian institutions
 
     <details>
       <summary>Show Abstract</summary>
