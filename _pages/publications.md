@@ -7,8 +7,6 @@ toc: true
 redirect_from:
   - /publications
 ---
-&nbsp;
-
 
 ## Publications
 
