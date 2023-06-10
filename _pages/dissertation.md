@@ -1,11 +1,8 @@
 ---
 layout: archive
-title: "Dissertation"
 permalink: /dissertation/
+title: "Dissertation"
 author_profile: true
-toc: true
 redirect_from:
-  - /dissertation
+  - /dissertation/
 ---
-&nbsp;
-&nbsp;
