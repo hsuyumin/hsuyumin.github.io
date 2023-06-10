@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
 My co-taught course evaluation for "Comparative Political Economy" and the two proposed syllabi for "Introduction to Comparative Politics" and "The Politics of Inequality" have been selected for the prestigious Dean's Teaching Fellowship of Emory University for the academic year 2022-2023. 
 
 ## Teaching Experience
@@ -29,6 +27,3 @@ Please [email me](mailto:hsu.yumin.wang@emory.edu) for the latest documents.
 * Teaching Evaluation for Comparative Political Economy
 * Proposed Syllabus I: Introduction of Comparative Politics (ver: Nov 2022)
 * Proposed Syllabus II: Politics of Inequality (ver: Nov 2022)
-
-
-{% test123 %}
