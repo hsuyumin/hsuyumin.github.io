@@ -10,7 +10,7 @@ redirect_from:
 
 ## The Autocrat’s Labor Dilemma: How Dependent Courts Manage Elite-Mass Conflicts in Pro-Worker Reforms
 
-I am currently working on my dissertation, which aims to shed light on the conditions under which autocrats enact labor legislation that protects workers. The crux of my argument, along with some of the empirical findings, is succinctly presented in my forthcoming paper titled "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Legislation," scheduled to be published in _Comparative Politics_.
+I am currently working on my dissertation, which aims to shed light on the conditions under which autocrats enact labor legislation that protects workers. My core argument, along with some of the empirical findings, is concisely summarized in my forthcoming paper titled "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Legislation," scheduled to be published in _Comparative Politics_.
 
 It is well recognized that authoritarian governments often adopt pro-worker policies as a means to preempt revolutionary threats. However, in many authoritarian regimes, the political and economic elites wield substantial de facto power, which poses an imminent threat to the ruling regime. The enactment of worker-friendly legislation introduces a delicate balancing act for autocrats, who must navigate the inherent tradeoff between providing benefits to workers and mitigating the potential negative impact on the economic interests of the elites.
 
