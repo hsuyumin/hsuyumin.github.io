@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-My co-taught course evaluation for "Comparative Political Economy" and the two proposed syllabi for "Introduction to Comparative Politics" and "The Politics of Inequality" have been selected for the prestigious Dean's Teaching Fellowship of Emory University for the academic year 2022-2023. 
+My co-taught course evaluation for "Comparative Political Economy" and the two proposed syllabi for "Introduction to Comparative Politics" and "The Politics of Inequality" have been selected for the prestigious Dean's Teaching Fellowship for the academic year 2022-2023. 
 
 ## Teaching Experience
 
