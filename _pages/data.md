@@ -10,7 +10,7 @@ redirect_from:
 ## A Latent Measure of Mass Threats in Nondemocracies (1960-2018)
 
 
-Mass threat is a core explanatory concept in comparative politics. Prior research has emphasized the critical role played by mass threats in driving political dynamics associated with authoritarianism, regime change, and redistributive politics. However, existing measures available in the literature come with their own limitations and do not fully capture the multifaceted nature of this concept.
+Mass threat is a core explanatory concept in comparative politics. Prior research has emphasized the critical role played by mass threats in driving political dynamics associated with authoritarianism, regime change, and redistributive politics. However, existing measures available in the literature suffer from certain limitations and do not fully capture the multifaceted nature of this concept.
 
 I advance a unified and theoretically informed approach to measuring mass threats in autocracies. I collect data on 13 empirical indicators that encompass two fundamental facets of mass threats: grievance and organizational capacity. Utilizing a Bayesian dynamic latent variable approach, I incorporate information on these indicators to generate time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018.
 
