@@ -18,5 +18,5 @@ To overcome these shortcomings, I advance a unified and theoretically informed a
 
 The proposed measurement approach has three advantages. First, the latent measure aligns closely with the ontological nature of mass threats as an unobserved quantity. Second, it bridges the existing divide in the use of mass threats in the literature, providing a framework that unifies both grievance and organizational capacity. Third, this measure not only exhibits a strong correlation with event-based measures but also possesses the ability to capture the essential substance of unrealized threats, setting it apart from those frequency measures.
 
-You can download the date here. For further details on the methodology behind this measure, please refer to the working paper titled "A Latent Variable Approach to Measuring Mass Threats in Nondemocracies," available here.
+You can access the data here. For further details on the methodology behind this measure, please refer to the working paper titled "A Latent Variable Approach to Measuring Mass Threats in Nondemocracies," available here.
 
