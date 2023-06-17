@@ -10,7 +10,7 @@ redirect_from:
 
 ## Publications
 
-* Wang, Hsu Yumin. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations." _Comparative Politics_.
+* **Wang, Hsu Yumin**. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations." _Comparative Politics_.
 
     <details>
       <summary>Show Abstract</summary>
@@ -18,8 +18,10 @@ redirect_from:
       Under what conditions would dictators enact labor legislation that protects workers? Conventional wisdom suggests that heightened mass discontent propels dictators to make policy concessions to buy off revolutionary threats. However, a more protective labor law may decrease elites' economic benefits and thus loyalty to the incumbent regime. I argue that limited judicial independence helps dictators control distributional outcomes of the law and therefore better respond to the twin challenges magnified by labor reforms. I test this argument by conducting a time-series cross-sectional analysis covering 68 autocracies from 1970 to 2008. I then offer an illustrative case from the 2008 Labor Contract Law in China to illuminate how a dependent judiciary provides autocrats with more leeway to balance the interests of elites and the masses. This paper sheds light on authoritarian survival strategies in the shadow of distributive tensions.
     </details>
     
-    
-* Wang, Hsu Yumin. Forthcoming. "Centralization, Elite Capture, and Service Provision: Evidence from Taiwan." _Comparative Political Studies_.
+
+* **Wang, Hsu Yumin**. Forthcoming. "[Centralization, Elite Capture, and Service Provision: Evidence from Taiwan](https://doi.org/10.1177/00104140231169023)." _Comparative Political Studies_.
+  [[DOI](https://doi.org/10.1177/00104140231169023)]; [[appendix](https://journals.sagepub.com/doi/suppl/10.1177/00104140231169023/suppl_file/sj-pdf-1-cps-10.1177_00104140231169023.pdf)]; [[replication](https://doi.org/10.7910/DVN/GMUOFI)]
+
 
     <details>
       <summary>Show Abstract</summary>
@@ -31,7 +33,7 @@ redirect_from:
 
 ## Working Papers
 
-* Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies (with [Eddy Yeung](https://eddy-yeung.github.io/)) (R&R)
+* [Yeung, Eddy S. F.](https://eddy-yeung.github.io/), and **Hsu Yumin Wang**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." (R&R)
 
     <details>
       <summary>Show Abstract</summary>
@@ -39,7 +41,7 @@ redirect_from:
       Autocrats often produce and disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation to account for this phenomenon: redistributionist propaganda helps autocrats create and consolidate a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Taking advantage of such nuanced understandings of democracy, autocrats can then deploy redistributionist propaganda to manipulate public opinion on how "equity-promoting" - and therefore how "democracy-promoting" - the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among the mass public. We then probe the causal impact of redistributionist propaganda by using an original survey experiment that exploits real-world propaganda material in China, where redistributionist propaganda is widespread under President Xi. This registered report outlines our argument and preregisters our hypotheses, estimation strategies, and inferential rules for the survey experiment. We also discuss the contributions and implications of our study.
     </details>
 
-* Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States (R&R)
+* **Hsu Yumin Wang**. "Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States." (R&R)
 
     <details>
       <summary>Show Abstract</summary>
@@ -48,7 +50,7 @@ redirect_from:
     </details>
 
 
-* Mass Political Consequences of Partially-Implemented Redistribution: Evidence from China
+* **Hsu Yumin Wang**. "Mass Political Consequences of Partially-Implemented Redistribution: Evidence from China."
 
     <details>
       <summary>Show Abstract</summary>
@@ -58,7 +60,7 @@ redirect_from:
     </details>
 
 
-* A Latent Variable Approach to Measuring Mass Threats in Nondemocracies
+* **Hsu Yumin Wang**. "A Latent Variable Approach to Measuring Mass Threats in Nondemocracies."
 
     <details>
       <summary>Show Abstract</summary>
@@ -68,7 +70,7 @@ redirect_from:
 
 
 
-* Institutions and Democratization in Right-Wing Dictatorships (with [Jennifer Gandhi](https://www.jennifergandhi.com/) and [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm))
+* [Gandhi, Jennifer](https://www.jennifergandhi.com/), [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm), and **Hsu Yumin Wang**. "Institutions and Democratization in Right-Wing Dictatorships."
 
     <details>
       <summary>Show Abstract</summary>
@@ -78,7 +80,7 @@ redirect_from:
 
 
 
-* Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China (with [Stefano Jud](http://stefanojud.com/) and Will Giles)
+* [Jud, Stefano](http://stefanojud.com/), [Will Giles](https://www.linkedin.com/in/will-giles-83a51362), and **Hsu Yumin Wang**. "Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China."
 
     <details>
       <summary>Show Abstract</summary>
@@ -90,10 +92,10 @@ redirect_from:
 
 ## Work in Progress
 
-* Understanding Taiwan’s Resilience amid the Threat of War (with [Renard Sexton](https://renardsexton.com/), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Eddy Yeung](https://eddy-yeung.github.io/))
+* **Project** Understanding Taiwan’s Resilience amid the Threat of War (with [Renard Sexton](https://renardsexton.com/), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Eddy Yeung](https://eddy-yeung.github.io/))
 
-* **Null Results Reports** Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai (with [Eddy Yeung](https://eddy-yeung.github.io/))
-  * [OSF Preprint](https://osf.io/eymhu/); [Pre-analysis Plan](https://osf.io/fg2d6)
+* **Null Results Report** Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai (with [Eddy Yeung](https://eddy-yeung.github.io/))
+  [[OSF Preprint](https://osf.io/eymhu/)]; [[Pre-analysis Plan](https://osf.io/fg2d6)]
 
     <details>
       <summary>Show Abstract</summary>
