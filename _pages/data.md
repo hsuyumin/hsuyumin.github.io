@@ -7,8 +7,6 @@ redirect_from:
   - /data
 ---
 
-# Data
-
 I have developed and maintained new cross-country data on a latent measure of mass threats in nondemocracies. No one would deny the centrality of mass threats in comparative politics. Previous research has extensively relied on this concept to elucidate significant political outcomes in authoritarianism, regime change, and the politics of redistribution. While there are numerous existing measures of mass threats in the literature, they come with their own limitations and do not fully capture the complexity of this concept.
 
 For example, scholars of democratization often rely on grievance-based indicators to gauge the degree of mass threats. However, this approach has faced criticism as many argue that grievances are relatively stable over time, making them inadequate for explaining the rise and fall of many political phenomena. On the other hand, researchers influenced by labor and welfare research may opt to use capacity-based indicators as proxies for mass threats. Nevertheless, it remains theoretically unclear as to why, without taking into account the underlying factors that drive people’s incentives to mobilize, such indicators alone can be considered a superior alternative. To move beyond this longstanding incentive-capacity debate, some researchers have turned to using the frequency of contentious events as a measure. However, event-based measures only document realized threats, omitting a large universe of unrealized threats that are also politically consequential.
