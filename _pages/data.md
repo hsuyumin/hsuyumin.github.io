@@ -10,10 +10,7 @@ redirect_from:
 * A Latent Variable Approach to Measuring Mass Threats in Nondemocracies
 
     <details>
-      <summary>Show Abstract</summary>
-
-      Mass threat is a critical factor in explaining regime change and various political outcomes of authoritarian politics. However, the literature to date is divided over how to measure it in cross-national research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies that seeks to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
-    </details>
+      <summary>Show Descriptions </summary>
 
 Mass threat is a core explanatory concept in comparative politics. Prior research has emphasized the critical role played by mass threats in driving political dynamics associated with authoritarianism, regime change, and redistributive politics. However, despite the availability of various existing measures in the literature, they are constrained by certain limitations and fail to fully capture the multifaceted nature of this concept.
 
@@ -24,3 +21,7 @@ To overcome these shortcomings, I advance a unified and theoretically informed a
 The proposed measurement approach has three advantages. First, the latent measure aligns closely with the ontological nature of mass threats as an unobserved quantity. Second, it bridges the existing divide in the use of mass threats in the literature, providing a framework that unifies both grievance and organizational capacity. Third, this measure not only exhibits a strong correlation with event-based measures but also possesses the ability to capture the essential substance of unrealized threats, setting it apart from those frequency measures.
 
 To access the data, you can download it from this link. For further details on the methodology behind this measure, please refer to the working paper titled "A Latent Variable Approach to Measuring Mass Threats in Nondemocracies," available here.
+
+    </details>
+
+
