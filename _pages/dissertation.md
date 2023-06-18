@@ -16,7 +16,7 @@ In my dissertation, I develop a new theory of labor regulation expansion based o
 
 My dissertation's subsequent chapters employ a variety of quantitative data and causal methodology to support the key aspects of the argument. I analyze comprehensive court rulings data on labor disputes and link them to subnational variations in judicial independence caused by judicial centralization reforms in China. Using a difference-in-differences analysis, I provide causal evidence that increased court independence hampers the ability of autocrats to protect elites' interests from worker-friendly legislation through legal channels, a core implication of my argument.
 
-In addition, I investigate the potential long-term effects of compromised enforcement of the LCL on regime support through a pre-registered survey experiment. The findings suggest that, despite unfulfilled expectations, partial benefits from pro-worker legislation can mitigate backlash. Finally, I explore the argument's generalizability by utilizing cross-country evidence with a new Bayesian latent measure of mass threats.
+In addition, I investigate the effect of compromised enforcement of the LCL on regime support through a pre-registered survey experiment. The findings suggest that, despite unfulfilled expectations, partial benefits from pro-worker legislation can mitigate backlash. Finally, I explore the argument's generalizability by utilizing cross-country evidence with a new Bayesian latent measure of mass threats and find robust evidence that supports my theory.
 
 Combined, these sources allow me to illustrate the true dynamics of pro-worker legislation, from the conditions and processes leading to its enactment to the mass politics it arises.
 
