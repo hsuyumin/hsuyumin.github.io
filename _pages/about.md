@@ -12,6 +12,6 @@ I am a Ph.D. candidate in the [Department of Political Science at Emory Universi
 
 My primary research interest lies in redistributive politics under dictatorship. My research advances the literature by exploring its intersection with autocratic courts and the study of propaganda. Specifically, I study (1) how autocratic courts help manage elite-mass conflicts amid distributive tensions and (2) why autocrats proactively communicate their redistributive efforts and examine how such propaganda shapes political attitudes. My work has been published by _Comparative Politics_ and _Comparative Political Studies_ and invited to revise and resubmit by the _Journal of Politics_. 
 
-Before coming to Atlanta, I received my M.A. and B.A. degree in political science from [National Taiwan University](https://www.ntu.edu.tw/english/). I was an exchange student at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in China, where I found my intellectual home in authortarianism, labor, welfare, and comparative political economy.
+Before coming to Emory, I received my M.A. and B.A. degree in political science from [National Taiwan University](https://www.ntu.edu.tw/english/). I was an exchange student at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in China, where I found my intellectual home in authortarianism, labor, welfare, and comparative political economy.
 
 You can contact me via email: `hsu <dot> yumin <dot> wang [at] emory <dot> edu`
