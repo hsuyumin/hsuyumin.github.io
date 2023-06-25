@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## The Autocrat’s Labor Dilemma: How Dependent Courts Manage Elite-Mass Conflicts in Pro-Worker Reforms
+## The Autocrat’s Labor Dilemma: Elite-Mass Conflicts, Labor Law, and the Value of Dependent Courts
 
 I am currently working on my dissertation, which examines the conditions under which autocrats enact labor legislation that protects workers and its aftermath. The core argument, along with some of the empirical findings, is summarized in my forthcoming paper titled "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Legislation," scheduled to be published in _Comparative Politics_.
 
