@@ -30,7 +30,7 @@ redirect_from:
     </details>
 
 
-* **Hsu Yumin Wang**. Accepted. "Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States." _Political Behavior_.
+* **Wang, Hsu Yumin**. Accepted. "Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States." _Political Behavior_.
 
     <details>
       <summary>Show Abstract</summary>
@@ -41,7 +41,7 @@ redirect_from:
 
 ## Working Papers
 
-* [Yeung, Eddy S. F.](https://eddy-yeung.github.io/), and **Hsu Yumin Wang**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." (R&R)
+* [Yeung, Eddy S. F.](https://eddy-yeung.github.io/), and **Wang, Hsu Yumin**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." (R&R)
 
     <details>
       <summary>Show Abstract</summary>
@@ -50,7 +50,7 @@ redirect_from:
     </details>
 
 
-* **Hsu Yumin Wang**. "Mass Political Consequences of Partially-Implemented Redistribution: Evidence from China."
+* **Wang, Hsu Yumin**. "Mass Political Consequences of Partially-Implemented Redistribution: Evidence from China."
 
     <details>
       <summary>Show Abstract</summary>
@@ -60,7 +60,7 @@ redirect_from:
     </details>
 
 
-* **Hsu Yumin Wang**. "A Latent Variable Approach to Measuring Mass Threats in Nondemocracies."
+* **Wang, Hsu Yumin**. "A Latent Variable Approach to Measuring Mass Threats in Nondemocracies."
 
     <details>
       <summary>Show Abstract</summary>
@@ -70,7 +70,7 @@ redirect_from:
 
 
 
-* [Gandhi, Jennifer](https://www.jennifergandhi.com/), [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm), and **Hsu Yumin Wang**. "Institutions and Democratization in Right-Wing Dictatorships."
+* [Gandhi, Jennifer](https://www.jennifergandhi.com/), [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm), and **Wang, Hsu Yumin**. "Institutions and Democratization in Right-Wing Dictatorships."
 
     <details>
       <summary>Show Abstract</summary>
@@ -80,7 +80,7 @@ redirect_from:
 
 
 
-* [Jud, Stefano](http://stefanojud.com/), [Will Giles](https://www.linkedin.com/in/will-giles-83a51362), and **Hsu Yumin Wang**. "Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China."
+* [Jud, Stefano](http://stefanojud.com/), [Will Giles](https://www.linkedin.com/in/will-giles-83a51362), and **Wang, Hsu Yumin**. "Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China."
 
     <details>
       <summary>Show Abstract</summary>
