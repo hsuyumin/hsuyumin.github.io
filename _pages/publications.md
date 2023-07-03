@@ -30,6 +30,14 @@ redirect_from:
     </details>
 
 
+* **Hsu Yumin Wang**. Accepted. "Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States." _Political Behavior_.
+
+    <details>
+      <summary>Show Abstract</summary>
+
+      Regressive taxation has increasingly played an important role in financing public programs, but current scholarship remains largely silent on the conditions under which people would support such financing strategies. This paper fills this gap by focusing on the United States, where sales taxes account for nearly one-third of state government revenue, and where sales tax ballot measures have received majority support. This paper utilizes an online survey experiment to examine two potential sources of public support for a sales tax increase: equal treatment beliefs (i.e., that all should pay the same tax rate) and a lack of public awareness of the distributive consequences of sales taxes. I find that exposure to information about sales taxes' distributive consequences significantly reduced respondents' support for a sales tax increase, but that equal treatment beliefs had no significant effect on such support. Additional analyses suggest that other-regarding motivations are a plausible mechanism underlying the effects of information provision. These findings shed light on how misperceptions of tax burdens shape support for regressive taxation and have broad implications for the role of fairness beliefs in the formation of tax policy preferences.
+    </details>
+
 
 ## Working Papers
 
@@ -39,14 +47,6 @@ redirect_from:
       <summary>Show Abstract</summary>
 
       Autocrats often produce and disseminate propaganda to boast about their redistributive efforts. Why is such propaganda so prevalent in autocracies? We propose a novel explanation to account for this phenomenon: redistributionist propaganda helps autocrats create and consolidate a façade of democracy. Our argument is premised on nuanced understandings of democracy among the masses: many citizens do not hold a strict, procedural view of democracy; instead, they often understand democracy through the lens of social equity. Taking advantage of such nuanced understandings of democracy, autocrats can then deploy redistributionist propaganda to manipulate public opinion on how "equity-promoting" - and therefore how "democracy-promoting" - the regime is. To evaluate our argument, we first demonstrate with extensive cross-national survey data that perceived social equity strongly predicts perceived democratic legitimacy among the mass public. We then probe the causal impact of redistributionist propaganda by using an original survey experiment that exploits real-world propaganda material in China, where redistributionist propaganda is widespread under President Xi. This registered report outlines our argument and preregisters our hypotheses, estimation strategies, and inferential rules for the survey experiment. We also discuss the contributions and implications of our study.
-    </details>
-
-* **Hsu Yumin Wang**. "Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States." (R&R)
-
-    <details>
-      <summary>Show Abstract</summary>
-
-      Regressive taxation has increasingly played an important role in financing public programs, but current scholarship remains largely silent on the conditions under which people would support such financing strategies. This paper fills this gap by focusing on the United States, where sales taxes account for nearly one-third of state government revenue, and where sales tax ballot measures have received majority support. This paper utilizes an online survey experiment to examine two potential sources of public support for a sales tax increase: equal treatment beliefs (i.e., that all should pay the same tax rate) and a lack of public awareness of the distributive consequences of sales taxes. I find that exposure to information about sales taxes' distributive consequences significantly reduced respondents' support for a sales tax increase, but that equal treatment beliefs had no significant effect on such support. Additional analyses suggest that other-regarding motivations are a plausible mechanism underlying the effects of information provision. These findings shed light on how misperceptions of tax burdens shape support for regressive taxation and have broad implications for the role of fairness beliefs in the formation of tax policy preferences.
     </details>
 
 
