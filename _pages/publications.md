@@ -19,7 +19,7 @@ redirect_from:
     </details>
     
 
-* **Wang, Hsu Yumin**. Forthcoming. "[Centralization, Elite Capture, and Service Provision: Evidence from Taiwan](https://doi.org/10.1177/00104140231169023)." _Comparative Political Studies_.
+* **Wang, Hsu Yumin**. Forthcoming. "Centralization, Elite Capture, and Service Provision: Evidence from Taiwan." _Comparative Political Studies_.
   [[DOI](https://doi.org/10.1177/00104140231169023)]; [[appendix](https://journals.sagepub.com/doi/suppl/10.1177/00104140231169023/suppl_file/sj-pdf-1-cps-10.1177_00104140231169023.pdf)]; [[replication](https://doi.org/10.7910/DVN/GMUOFI)]
 
 
