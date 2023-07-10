@@ -39,6 +39,10 @@ redirect_from:
     </details>
 
 
+## Book Review
+
+* **Wang, Hsu Yumin**. 2022. Book Review of ``Workers and Change in China: Resistance, Repression, %Responsiveness.'' _Political Science Quarterly_ 137(4): 815-817. [[DOI]( https://doi.org/10.1002/polq.13415)]
+
 ## Working Papers
 
 * [Yeung, Eddy S. F.](https://eddy-yeung.github.io/), and **Wang, Hsu Yumin**. "Faking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." (R&R)
