@@ -14,7 +14,7 @@ My research on autocratic redistribution concerns the strategic logic of progres
 
 My work on democratic (re)distribution, on the other hand, addresses why public goods provision varies across subnational units and why individuals support redistribution policies that act against their self-interest. For the former, I focus on elite influence on the delivery of public goods and evaluate the degree to which centralized institutions can curb elite capture. For the latter, my research joins the growing literature that looks at the role of economic perceptions in affecting redistribution preference with a new application to support for regressive taxation.
 
-In pursuit of these research themes, I delve into cases from China, Taiwan, and the U.S. via process tracing, quasi-experimental designs, and survey experiments. I also improve on the cross-country measurement of mass threats in non-democracies. 
+In pursuit of these research themes, I embrace methodological diversity and use mixed methods to establish causal relationships and ensure the validity of findings. I delve into cases from China, Taiwan, and the U.S. via process tracing, quasi-experimental designs, and survey experiments. In cross-national research, I endeavor to improve the measurement validity and develop a unified and theoretically-informed approach to measuring mass threats (a proxy of redistributive pressure) in non-democracies. 
 
 Before coming to Emory, I received my M.A. and B.A. degrees in political science from [National Taiwan University](https://www.ntu.edu.tw/english/). I was an exchange student at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in China, where I found my intellectual passion in autocratic politics, labor, welfare, and comparative political economy.
 
