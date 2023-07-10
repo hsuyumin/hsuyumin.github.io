@@ -10,7 +10,7 @@ redirect_from:
 
 ## Publications
 
-* **Wang, Hsu Yumin**. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations." _Comparative Politics_.
+* **Wang, Hsu Yumin**. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Regulations." _Comparative Politics_. [[DOI](https://doi.org/10.5129/001041523X16869185707673)]
 
     <details>
       <summary>Show Abstract</summary>
