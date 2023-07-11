@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## The Autocrat’s Labor Dilemma: Elite-Mass Conflicts, Labor Law, and the Value of Dependent Courts
+## The Autocrat’s Labor Dilemma: Elite-Mass Conflict, Labor Law, and the Value of Dependent Courts
 
 My dissertation is a book-length monograph that examines the conditions under which autocrats enact pro-worker legislation and analyzes its political consequences for autocratic rule. The core argument, with empirical evidence from a cross-national analysis and an illustrative case of China, is summarized in my paper titled "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Legislation," published in _Comparative Politics_.
 
