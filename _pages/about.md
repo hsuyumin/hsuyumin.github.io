@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Political Science at Emory University](http://polisci.emory.edu/home/) and a pre-doctoral fellow with the Democracy Program at the Carter Center. My research lies at the intersection of political economy, political institutions, and mass political behavior, with a regional focus on East Asia. Specifically, I study the causes and consequences of redistribution both in autocratic and democratic contexts
+I am a Ph.D. candidate in the [Department of Political Science at Emory University](http://polisci.emory.edu/home/) and a pre-doctoral fellow with the Democracy Program at the Carter Center. My research lies at the intersection of political economy, political institutions, and mass political behavior.  Specifically, I study the causes and consequences of redistribution both in autocratic and democratic contexts, with a regional focus on East Asia.
 
 My research advances the research frontier of autocratic redistribution by exploring its intersection with autocratic courts and government propaganda. Specifically, I shed light on (1) how dependent courts, through their flexibility to adjudicate cases in accordance with autocrats' situational needs, shape the causes and consequences of autocratic redistribution and (2) why autocrats proactively communicate their redistributive efforts and examine how such propaganda shapes political attitudes. 
 
