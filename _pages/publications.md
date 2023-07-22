@@ -30,7 +30,7 @@ redirect_from:
     </details>
 
 
-* **Wang, Hsu Yumin**. Accepted. "Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States." _Political Behavior_.
+* **Wang, Hsu Yumin**. Forthcoming. "Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States." _Political Behavior_. [[DOI](https://doi.org/10.1007/s11109-023-09886-7)]
 
     <details>
       <summary>Show Abstract</summary>
