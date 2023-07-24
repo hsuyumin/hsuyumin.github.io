@@ -96,7 +96,7 @@ redirect_from:
 
 ## Work in Progress
 
-* **Project** Understanding Taiwan’s Resilience amid the Threat of War (with [Renard Sexton](https://renardsexton.com/), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Eddy Yeung](https://eddy-yeung.github.io/))
+* **Project** Measuring and Testing Interventions to Change Resilience and Will-to-Fight in Taiwan (with [Renard Sexton](https://renardsexton.com/), [Hans Tung](https://homepage.ntu.edu.tw/~hanstung/Home.html), and [Eddy Yeung](https://eddy-yeung.github.io/))
 
 * **Null Results Report** Attitudes toward Internal Migrants and Support for Redistribution: Evidence from Shanghai (with [Eddy Yeung](https://eddy-yeung.github.io/))
   [[OSF Preprint](https://osf.io/eymhu/)]; [[Pre-analysis Plan](https://osf.io/fg2d6)]
