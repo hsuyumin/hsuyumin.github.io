@@ -54,7 +54,7 @@ redirect_from:
     </details>
 
 
-* **Wang, Hsu Yumin**. "Mass Political Consequences of Partially-Implemented Redistribution: Evidence from China."
+* **Wang, Hsu Yumin**. "Mass Political Consequences of Partial Redistribution: Evidence from China."
 
     <details>
       <summary>Show Abstract</summary>
