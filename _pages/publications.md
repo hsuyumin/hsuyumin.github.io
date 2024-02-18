@@ -54,7 +54,7 @@ redirect_from:
     </details>
 
 
-* **Wang, Hsu Yumin**. "Mass Political Effects of Partially Fulfilled (Re)distrbutive Programs: Experimental Evidence from China."
+* **Wang, Hsu Yumin**. "Mass Political Effects of Partially Fulfilled (Re)distributive Programs: Experimental Evidence from China."
 
     <details>
       <summary>Show Abstract</summary>
@@ -68,7 +68,7 @@ redirect_from:
     <details>
       <summary>Show Abstract</summary>
 
-      Students of comparative politics have long recognized mass threats as a key driver of regime change and a variety of political outcomes of authoritarian politics. However, the existing literature to date is divided over how to measure it properly in cross-national research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
+      Students of comparative politics have long recognized mass threats as a key driver of regime change and a variety of political outcomes under autocracy. Yet, the existing literature to date remains divided over how to measure it properly in cross-national research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
       </details>
 
 
