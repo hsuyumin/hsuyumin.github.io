@@ -10,7 +10,7 @@ redirect_from:
 
 ## Publications
 
-* **Wang, Hsu Yumin**. Forthcoming. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Legislation." _Comparative Politics_. [[DOI](https://doi.org/10.5129/001041523X16869185707673)]
+* **Wang, Hsu Yumin**. 2024. "Appeasing Workers without Great Loss: Autocracy and Progressive Labor Legislation." _Comparative Politics_, 56(2): 149–171. [[DOI](https://doi.org/10.5129/001041523X16869185707673)]
 
     <details>
       <summary>Show Abstract</summary>
@@ -19,7 +19,7 @@ redirect_from:
     </details>
     
 
-* **Wang, Hsu Yumin**. Forthcoming. "Centralization, Elite Capture, and Service Provision: Evidence from Taiwan." _Comparative Political Studies_.
+* **Wang, Hsu Yumin**. 2024. "Centralization, Elite Capture, and Service Provision: Evidence from Taiwan." _Comparative Political Studies_, 57(1): 32-68.
   [[DOI](https://doi.org/10.1177/00104140231169023)]; [[appendix](https://journals.sagepub.com/doi/suppl/10.1177/00104140231169023/suppl_file/sj-pdf-1-cps-10.1177_00104140231169023.pdf)]; [[replication](https://doi.org/10.7910/DVN/GMUOFI)]
 
 
@@ -59,8 +59,7 @@ redirect_from:
     <details>
       <summary>Show Abstract</summary>
 
-      It is well recognized that authoritarian rulers can stem mass discontent and garner political support by introducing progressive redistributive programs. However, this characterization often overlooks the reality that many of the programs are partially implemented and may not live up to popular expectations. What is the effect of partially-implemented redistribution (PIR, hereafter) on regime support? This paper answers this question by focusing on China's 2008 Labor Contract Law, whose policy promises are often compromised in the process of judicial enforcement. I argue that the effect of PIR can be decomposed into two components: backlash against unfulfilled expectations and gains over status quo. Through a pre-registered online survey experiment, I offer, to my knowledge, the first experimental test on the effect of PIR. The findings indicate that, for political rulers, PIR does not significantly decrease regime support when compared to inaction on grievances. Further analysis suggests that PIR, provided it still delivers benefits, can mitigate the backlash resulting from unfulfilled expectations, leading to more mixed and ambivalent attitudes towards the regime among the public. This study contributes to our understanding of the dynamics of authoritarian control and mass political effects of redistribution.
-
+      It is widely believed that autocratic rulers can contain mass discontent and garner political support by introducing progressive redistributive programs. However, this received wisdom overlooks the reality that many of the programs are partially fulfilled and may not meet popular expectations. What is the effect of partially fulfilled redistribution (PFR, hereafter) on regime support? This paper answers this question by focusing on China's 2008 Labor Contract Law, whose policy promises are often compromised in the process of judicial enforcement. I argue that the effect of PFR can be decomposed into two components: backlash against unfulfilled expectations and gains over status quo. Using a pre-registered online survey experiment, I offer, to my knowledge, the first experimental test on the effect of PFR. The findings indicate that, for rulers, PFR does not significantly decrease regime support when compared to inaction on grievances. Further analysis suggests that PFR, if it contiunes to delivers benefits, may mitigate the backlash resulting from unmet expectations, leading to more mixed and ambivalent attitudes towards the regime among the public. This study contributes to our understanding of the dynamics of authoritarian control and the mass political effects of redistribution.
     </details>
 
 
@@ -69,8 +68,8 @@ redirect_from:
     <details>
       <summary>Show Abstract</summary>
 
-      Mass threat is a critical factor in explaining regime change and various political outcomes of authoritarian politics. However, the literature to date is divided over how to measure it in cross-national research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies that seeks to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
-    </details>
+      Students of comparative politics have long recognized mass threats as a key driver of regime change and a variety of political outcomes of authoritarian politics. However, the existing literature to date is divided over how to measure it properly in cross-national research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies that seeks to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
+      </details>
 
 
 
