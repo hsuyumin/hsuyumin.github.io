@@ -45,7 +45,7 @@ redirect_from:
 
 ## Working Papers
 
-* **Wang, Hsu Yumin** and [Yeung, Eddy S. F.](https://eddy-yeung.github.io/). "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." (registered report principally accepted at _Journal of Politics_)
+* **Wang, Hsu Yumin** and [Yeung, Eddy S. F.](https://eddy-yeung.github.io/). "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." (conditionally accepted at _Journal of Politics_)
 
     <details>
       <summary>Show Abstract</summary>
