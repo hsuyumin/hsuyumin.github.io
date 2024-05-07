@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Political Science at Emory University](http://polisci.emory.edu/home/) and a Fellow with the Democracy Program at the Carter Center. My research lies at the intersection of political economy, institutions, and behavior, with a substantive focus on redistribution, courts, and propaganda in authoritarian regimes. Geographically, my work concentrates on China and Taiwan.
+I am a Ph.D. candidate in the [Department of Political Science at Emory University](http://polisci.emory.edu/home/) and a Fellow with the Democracy Program at the Carter Center. My research lies at the intersection of political economy, institutions, and behavior, with a substantive focus on redistribution, courts, and propaganda in authoritarian regimes. Geographically, my work concentrates on China and Taiwan. Starting in Fall 2024, I will join Taipei School of Economics and Political Science as an Assistant Professor.
 
 My research revolves around this central question: How do autocrats survive in power when threats from elites and the masses escalate and collide? I answer this question by focusing on elite-mass conflict arising from progressive redistribution (e.g., pro-worker legislation). My work delves into the strategies employed by autocrats to resolve the distributional dilemma, with an emphasis on courts and propaganda as the autocrat's solutions. Drawing on fine-grained data from China and robust cross-national evidence, I provide new insights into two fundamental puzzles of the political economy of authoritarianism: (1) why autocrats redistribute and (2) when autocratic redistribution bolsters the regime rather than backfires.
 
