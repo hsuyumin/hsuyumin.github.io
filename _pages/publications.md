@@ -51,6 +51,8 @@ redirect_from:
 
 * **Wang, Hsu Yumin**. 2022. Book Review of "Workers and Change in China: Resistance, Repression, Responsiveness." _Political Science Quarterly_ 137(4): 815-817. [[DOI](https://onlinelibrary.wiley.com/doi/10.1002/polq.13415)]
 
+* **Wang, Hsu Yumin**. 2024. Book Review of "Atomized Incorporation: Chinese Workers and the Aftermath of China's Rise" _Political Science Quarterly_. [[DOI]((https://doi.org/10.1093/psquar/qqae098)]
+
 ## Working Papers
 
 * **Wang, Hsu Yumin**. "Mass Political Effects of Partially Fulfilled (Re)distributive Programs: Experimental Evidence from China."
