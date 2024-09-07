@@ -47,7 +47,7 @@ redirect_from:
     </details>
 
 
-## Book Review
+## Book Reviews
 
 * **Wang, Hsu Yumin**. 2022. Book Review of "Workers and Change in China: Resistance, Repression, Responsiveness." _Political Science Quarterly_ 137(4): 815-817. [[DOI](https://onlinelibrary.wiley.com/doi/10.1002/polq.13415)]
 
