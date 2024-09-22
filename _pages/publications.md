@@ -39,7 +39,7 @@ redirect_from:
     </details>
 
 
-* **Wang, Hsu Yumin**. Forthcoming. "Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States." _Political Behavior_. [[DOI](https://doi.org/10.1007/s11109-023-09886-7)]; [[appendix](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-023-09886-7/MediaObjects/11109_2023_9886_MOESM1_ESM.pdf)]; [[replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QL0KJN)]
+* **Wang, Hsu Yumin**. 2024. "Information, Equal Treatment, and Support for Regressive Taxation: Experimental Evidence from the United States." _Political Behavior_, 46(3): 1609--1632. [[DOI](https://doi.org/10.1007/s11109-023-09886-7)]; [[appendix](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-023-09886-7/MediaObjects/11109_2023_9886_MOESM1_ESM.pdf)]; [[replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QL0KJN)]
 
     <details>
       <summary>Show Abstract</summary>
