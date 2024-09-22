@@ -5,10 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-My teaching portfolio, including co-taught course evaluation for "Comparative Political Economy" and the two proposed syllabi for "Introduction to Comparative Politics" and "The Politics of Inequality," have been awarded the prestigious Dean's Teaching Fellowship for the academic year 2022-2023. 
-
 ## Teaching Experience
 
+### [Taipei School of Economics and Political Science](https://www.tse.nthu.edu.tw/)
+
+* _Comparative Political Economy_, 2024 Fall (G) [Syllabus](https://www.dropbox.com/scl/fi/sy529ciqh8arhwbtvd8yo/Syllabus___Advanced_Comparative_Political_Economy_website.pdf?rlkey=kvdoyeggmesaml6odkb4eksrv&dl=0)
 
 ### [Department of Political Science, Emory University](http://polisci.emory.edu/home/)
 * _Methodology Consultant_, 2022 Fall (G)
@@ -21,9 +22,14 @@ My teaching portfolio, including co-taught course evaluation for "Comparative Po
 
 
 ## Related Documents
+
+My teaching portfolio, including co-taught course evaluation for "Comparative Political Economy" and the two proposed syllabi for "Introduction to Comparative Politics" and "The Politics of Inequality," have been awarded the prestigious Dean's Teaching Fellowship for the academic year 2022-2023. 
+
 Please [email me](mailto:hsu.yumin.wang@emory.edu) for the latest documents.
 
 * Teaching Statement 
 * Teaching Evaluation for Comparative Political Economy (8.5/9)
 * Proposed Syllabus I: Introduction of Comparative Politics (ver: Nov 2022)
 * Proposed Syllabus II: Politics of Inequality (ver: Nov 2022)
+
+
