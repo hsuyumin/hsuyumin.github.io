@@ -9,7 +9,7 @@ author_profile: true
 
 ### [Taipei School of Economics and Political Science](https://www.tse.nthu.edu.tw/)
 
-* _Comparative Political Economy_, 2024 Fall (G) [Syllabus](https://www.dropbox.com/scl/fi/sy529ciqh8arhwbtvd8yo/Syllabus___Advanced_Comparative_Political_Economy_website.pdf?rlkey=kvdoyeggmesaml6odkb4eksrv&dl=0)
+* _Comparative Political Economy_, 2024 Fall (G) [Syllabus](https://www.dropbox.com/scl/fi/sy529ciqh8arhwbtvd8yo/Syllabus___Advanced_Comparative_Political_Economy_website.pdf?rlkey=kvdoyeggmesaml6odkb4eksrv&st=xbtfo3bo&dl=0)
 
 ### [Department of Political Science, Emory University](http://polisci.emory.edu/home/)
 * _Methodology Consultant_, 2022 Fall (G)
