@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hsu Yumin WANG"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate at Emory University"
-  location         : "Atlanta, GA"
+  bio              : 
+  location         : "Hsinchu, Taiwan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=OcNF_KIAAAAJ&hl=en"
