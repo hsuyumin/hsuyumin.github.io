@@ -11,6 +11,8 @@ author_profile: true
 
 * _Comparative Political Economy_, 2024 Fall (G) [Syllabus](https://www.dropbox.com/scl/fi/sy529ciqh8arhwbtvd8yo/Syllabus___Advanced_Comparative_Political_Economy_website.pdf?rlkey=kvdoyeggmesaml6odkb4eksrv&st=xbtfo3bo&dl=0)
 
+* _Experimental Research in Social Research_, 2025 Spring (G)
+
 ### [Department of Political Science, Emory University](http://polisci.emory.edu/home/)
 * _Methodology Consultant_, 2022 Fall (G)
 * _Co-instructor_, POLS 385: Comparative Political Economy, 2022 Spring (U)
