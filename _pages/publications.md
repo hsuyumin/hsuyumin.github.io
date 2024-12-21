@@ -56,6 +56,14 @@ redirect_from:
 
 ## Working Papers
 
+* **Wang, Hsu Yumin**. "A Latent Variable Approach to Measuring Mass Threats in Nondemocracies." (Invited to Revise and Resubmit at _British Journal of Political Science_)
+
+    <details>
+      <summary>Show Abstract</summary>
+
+      Students of comparative politics have long recognized mass threats as a key driver of regime change and a variety of political outcomes under dictatorship. Yet, the existing literature to date remains divided over how to measure this theoretical concept properly in empirical research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
+      </details>
+
 * **Wang, Hsu Yumin**. "Mass Political Effects of Partially Fulfilled (Re)distributive Programs: Experimental Evidence from China."
 
     <details>
@@ -63,15 +71,6 @@ redirect_from:
 
       It is widely believed that autocratic rulers can contain mass discontent and garner political support by introducing progressive redistributive programs. However, such received wisdom overlooks the reality that many of the programs are partially fulfilled and may not meet popular expectations. What is the effect of partially fulfilled redistribution (PFR, hereafter) on regime support? This paper answers this question by focusing on China's 2008 Labor Contract Law, whose policy promises are often compromised in the process of judicial enforcement. I argue that the effect of PFR can be decomposed into two components: backlash against unfulfilled expectations and gains over status quo. Using a pre-registered online survey experiment, I offer, to my knowledge, the first experimental test on the effect of PFR. The findings indicate that, for rulers, PFR does not significantly decrease regime support when compared to inaction on grievances. Further analysis suggests that PFR, if it continues to deliver benefits, may mitigate the backlash resulting from unmet expectations, leading to more mixed and ambivalent attitudes towards the regime among the public. This study contributes to our understanding of the intricate dynamics of authoritarian control and the mass political effects of redistribution.
     </details>
-
-
-* **Wang, Hsu Yumin**. "A Latent Variable Approach to Measuring Mass Threats in Nondemocracies."
-
-    <details>
-      <summary>Show Abstract</summary>
-
-      Students of comparative politics have long recognized mass threats as a key driver of regime change and a variety of political outcomes under dictatorship. Yet, the existing literature to date remains divided over how to measure this theoretical concept properly in empirical research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
-      </details>
 
 
 
