@@ -64,6 +64,16 @@ redirect_from:
       Students of comparative politics have long recognized mass threats as a key driver of regime change and a variety of political outcomes under dictatorship. Yet, the existing literature to date remains divided over how to measure this theoretical concept properly in empirical research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
       </details>
 
+
+* [Jud, Stefano](http://stefanojud.com/), [Will Giles](https://www.linkedin.com/in/will-giles-83a51362), and **Wang, Hsu Yumin**. "Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China." (Invited to Revise and Resubmit at _Journal of Peace Research_)
+
+    <details>
+      <summary>Show Abstract</summary>
+
+      Are international courts effective in changing state behavior and fostering international cooperation? Conventional wisdom suggests that international courts can promote cooperation since governments suffer domestic audience costs from non-compliance. Despite the possibility of audience costs, there are still many governments refusing to comply with decisions of international courts. We argue that this is because unfavorable rulings can spark domestic backlash among citizens against international courts. As a result, non-compliance should increase domestic support, especially amongst highly-nationalistic individuals. We tested the argument using a conjoint survey experiment in China where we exposed respondents to a hypothetical case where the International Court of Justice (ICJ) issued an unfavorable ruling against China. We find that citizens prefer that the Chinese government does not comply with the ruling and these preferences are significantly stronger among individuals with strong nationalist sentiment. The results of our experiment highlight that, contrary to previous literature, international courts may not always induce international cooperation.
+    </details>
+
+
 * **Wang, Hsu Yumin**. "Mass Political Effects of Partially Fulfilled (Re)distributive Programs: Experimental Evidence from China."
 
     <details>
@@ -80,16 +90,6 @@ redirect_from:
       <summary>Show Abstract</summary>
 
       How does the ideology and institutional organization of authoritarian regimes affect processes of democratization? Class-based analyses of democratic transitions focus on how the poor mobilize against the rich to press for democratization under right-wing authoritarian regimes (Boix 2003, Acemoglu and Robinson 2006). While these models do much to further our understanding of democratization, they neither empirically verify the uniqueness of their claims for right-wing regimes nor take into account the role of institutions in dictatorships. In this paper, dictatorial institutions are brought to the fore in explaining patterns of regime transitions. Our theory establishes that the effect of these institutions will be conditional on the ideology of the regime. Faced with a high revolutionary threat posed by the poor, right-wing dictatorships endowed with political institutions (political parties and legislature) that enable lower-income sectors to secure redistributive policies are less likely to democratize (and more likely to survive). These institutions serve to maintain redistributive transfers even when the revolutionary threat of the poor diminishes. We provide evidence of these claims using original data on the ideological orientation of all dictatorships during the 1960-2008 period.
-    </details>
-
-
-
-* [Jud, Stefano](http://stefanojud.com/), [Will Giles](https://www.linkedin.com/in/will-giles-83a51362), and **Wang, Hsu Yumin**. "Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China."
-
-    <details>
-      <summary>Show Abstract</summary>
-
-      Are international courts effective in changing state behavior and fostering international cooperation? Conventional wisdom suggests that international courts can promote cooperation since governments suffer domestic audience costs from non-compliance. Despite the possibility of audience costs, there are still many governments refusing to comply with decisions of international courts. We argue that this is because unfavorable rulings can spark domestic backlash among citizens against international courts. As a result, non-compliance should increase domestic support, especially amongst highly-nationalistic individuals. We tested the argument using a conjoint survey experiment in China where we exposed respondents to a hypothetical case where the International Court of Justice (ICJ) issued an unfavorable ruling against China. We find that citizens prefer that the Chinese government does not comply with the ruling and these preferences are significantly stronger among individuals with strong nationalist sentiment. The results of our experiment highlight that, contrary to previous literature, international courts may not always induce international cooperation.
     </details>
 
 
