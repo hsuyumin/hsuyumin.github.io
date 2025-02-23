@@ -50,7 +50,7 @@ redirect_from:
 
 ## Book Reviews and Public Scholarship
 
-* **Wang, Hsu Yumin**. 2024. "Why Does China Also Have 'Progressive Labor Laws'? From Personal Academic Reflections to 'Authoritarian Judicial Balancing Theory」" _Contemporary China Newsletter_ 37: 22-31. [[LINK](https://doi.org/10.1093/psquar/qqae098)] (in Chinese)
+* **Wang, Hsu Yumin**. 2024. "Why Does China Also Have 'Progressive Labor Laws'? From Personal Academic Reflections to 'Authoritarian Judicial Balancing Theory」" _Contemporary China Newsletter_ 37: 22-31. [[LINK]([https://doi.org/10.1093/psquar/qqae098](https://cfcc.site.nthu.edu.tw/p/412-1203-10207.php?Lang=zh-tw))] (in Chinese)
 
 * **Wang, Hsu Yumin**. 2024. Book Review of "Atomized Incorporation: Chinese Workers and the Aftermath of China's Rise" _Political Science Quarterly_ 139(4): 695-696. [[DOI](https://doi.org/10.1093/psquar/qqae098)]
 
