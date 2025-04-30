@@ -10,6 +10,14 @@ redirect_from:
 
 ## Publications
 
+* [Jud, Stefano](http://stefanojud.com/), **Wang, Hsu Yumin**, and [Will Giles](https://www.linkedin.com/in/will-giles-83a51362). "Does Shaming Make Non-Compliance with International Court Rulings Costlier? Evidence from China." (Conditionally Accepted at _Journal of Peace Research_)
+
+    <details>
+      <summary>Show Abstract</summary>
+
+      Can naming and shaming reduce domestic public support for a government that fails to comply with an international court ruling? We explore this question through a conjoint survey experiment conducted in China---a setting that represents a least likely case for such an effect. In our experiment, respondents were informed about a ruling by the International Court of Justice against China. While we found that citizens generally favored non-compliance with the ruling, shaming by the United Nations significantly reduced public support for non-compliance. In contrast, shaming by the United States had no significant effect. These results suggest that naming and shaming may bolster domestic support for compliance with international court rulings, even in restrictive environments like China. 
+    </details>
+
 * **Wang, Hsu Yumin** and [Yeung, Eddy S. F.](https://eddy-yeung.github.io/). Forthcoming. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." _The Journal of Politics_.
 
     <details>
@@ -65,15 +73,6 @@ redirect_from:
 
       Students of comparative politics have long recognized mass threats as a key driver of regime change and a variety of political outcomes under dictatorship. Yet, the existing literature to date remains divided over how to measure this theoretical concept properly in empirical research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
       </details>
-
-
-* [Jud, Stefano](http://stefanojud.com/), [Will Giles](https://www.linkedin.com/in/will-giles-83a51362), and **Wang, Hsu Yumin**. "Courting Condemnation: Audience Costs and International Court Compliance using Survey Evidence from China." (Invited to Revise and Resubmit at _Journal of Peace Research_)
-
-    <details>
-      <summary>Show Abstract</summary>
-
-      Are international courts effective in changing state behavior and fostering international cooperation? Conventional wisdom suggests that international courts can promote cooperation since governments suffer domestic audience costs from non-compliance. Despite the possibility of audience costs, there are still many governments refusing to comply with decisions of international courts. We argue that this is because unfavorable rulings can spark domestic backlash among citizens against international courts. As a result, non-compliance should increase domestic support, especially amongst highly-nationalistic individuals. We tested the argument using a conjoint survey experiment in China where we exposed respondents to a hypothetical case where the International Court of Justice (ICJ) issued an unfavorable ruling against China. We find that citizens prefer that the Chinese government does not comply with the ruling and these preferences are significantly stronger among individuals with strong nationalist sentiment. The results of our experiment highlight that, contrary to previous literature, international courts may not always induce international cooperation.
-    </details>
 
 
 * **Wang, Hsu Yumin**. "Mass Political Effects of Partially Fulfilled (Re)distributive Programs: Experimental Evidence from China."
