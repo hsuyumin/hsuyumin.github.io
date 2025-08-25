@@ -13,7 +13,7 @@ author_profile: true
 
 * _Experimental Design in Social Research_, 2025 Spring (G) [Syllabus](https://www.dropbox.com/scl/fi/9uag5w1d5e8sp71641a9r/Syllabus___Experiments.pdf?rlkey=0z1y6lmgv8ry1f3vge3mndgpl&st=yurduwk4&dl=0)
 
-* _Research Design in Social Inquiry_, 2025 Fall (G) [Syllabus](https://www.dropbox.com/scl/fi/0bsou76iqd7pa68l98w2f/Syllabus___Research_Design.pdf?rlkey=qfhahc7kvwfh73ikvcbyj5t5p&st=j74i1kqx&dl=0)
+* _Research Design in Social Inquiry_, 2025 Fall (G) [Syllabus](https://www.dropbox.com/previews/Syllabus___Research_Design.pdf?context=search&path=%2F&query=syllabus+research+design&role=personal&typeahead_session_id=31670723796576177680504785387811)
 
 ### [Department of Political Science, Emory University](http://polisci.emory.edu/home/)
 * _Methodology Consultant_, 2022 Fall (G)
