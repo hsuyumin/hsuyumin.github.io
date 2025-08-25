@@ -58,7 +58,7 @@ redirect_from:
 
 ## Book Reviews and Public Scholarship
 
-* **Wang, Hsu Yumin**. 2024. "Authoritarian Judiciaries and Regime Stability in the Shadow of Distributional Conflict." _Contemporary China Newsletter_ 37: 22-31. [[LINK](https://cfcc.site.nthu.edu.tw/p/412-1203-10207.php?Lang=zh-tw)] (in Chinese)
+* **Wang, Hsu Yumin**. 2024. "Authoritarian Judiciaries and Regime Stability in the Shadow of Distributional Conflict." _Contemporary China Newsletter_ 37: 22-31. [[LINK](https://cfcc.site.nthu.edu.tw/.../img/2384/148603633.pdf)] (in Chinese)
   
 * **Wang, Hsu Yumin**. 2024. "Why Does China Also Have Progressive Labor Laws? From Personal Academic Reflections to Authoritarian Judicial Balancing Theory." _Contemporary China Newsletter_ 37: 22-31. [[LINK](https://cfcc.site.nthu.edu.tw/p/412-1203-10207.php?Lang=zh-tw)] (in Chinese)
 
