@@ -10,7 +10,7 @@ redirect_from:
 
 ## Publications
 
-* [Jud, Stefano](http://stefanojud.com/), **Wang, Hsu Yumin**, and [Will Giles](https://www.linkedin.com/in/will-giles-83a51362). "Does Shaming Make Non-Compliance with International Court Rulings Costlier? Evidence from China." (Forthcoming at _Journal of Peace Research_)
+* **Wang, Hsu Yumin**, [Stefano, Jud](http://stefanojud.com/), and [Will Giles](https://www.linkedin.com/in/will-giles-83a51362). "Does Shaming Make Non-Compliance with International Court Rulings Costlier? Evidence from China." (Forthcoming at _Journal of Peace Research_)
 
     <details>
       <summary>Show Abstract</summary>
@@ -58,9 +58,11 @@ redirect_from:
 
 ## Book Reviews and Public Scholarship
 
-* **Wang, Hsu Yumin**. 2024. "Why Does China Also Have Progressive Labor Laws? From Personal Academic Reflections to Authoritarian Judicial Balancing Theory」" _Contemporary China Newsletter_ 37: 22-31. [[LINK](https://cfcc.site.nthu.edu.tw/p/412-1203-10207.php?Lang=zh-tw)] (in Chinese)
+* **Wang, Hsu Yumin**. 2024. "Authoritarian Judiciaries and Regime Stability in the Shadow of Distributional Conflict." _Contemporary China Newsletter_ 37: 22-31. [[LINK](https://cfcc.site.nthu.edu.tw/p/412-1203-10207.php?Lang=zh-tw)] (in Chinese)
+* 
+* **Wang, Hsu Yumin**. 2024. "Why Does China Also Have Progressive Labor Laws? From Personal Academic Reflections to Authoritarian Judicial Balancing Theory." _Contemporary China Newsletter_ 37: 22-31. [[LINK](https://cfcc.site.nthu.edu.tw/p/412-1203-10207.php?Lang=zh-tw)] (in Chinese)
 
-* **Wang, Hsu Yumin**. 2024. Book Review of "Atomized Incorporation: Chinese Workers and the Aftermath of China's Rise" _Political Science Quarterly_ 139(4): 695-696. [[DOI](https://doi.org/10.1093/psquar/qqae098)]
+* **Wang, Hsu Yumin**. 2024. Book Review of "Atomized Incorporation: Chinese Workers and the Aftermath of China's Rise." _Political Science Quarterly_ 139(4): 695-696. [[DOI](https://doi.org/10.1093/psquar/qqae098)]
 
 * **Wang, Hsu Yumin**. 2022. Book Review of "Workers and Change in China: Resistance, Repression, Responsiveness." _Political Science Quarterly_ 137(4): 815-817. [[DOI](https://onlinelibrary.wiley.com/doi/10.1002/polq.13415)]
 
