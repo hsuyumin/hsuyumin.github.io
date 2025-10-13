@@ -18,7 +18,7 @@ redirect_from:
       Can naming and shaming reduce domestic public support for a government that fails to comply with an international court ruling? We explore this question through a conjoint survey experiment conducted in China---a setting that represents a least likely case for such an effect. In our experiment, respondents were informed about a ruling by the International Court of Justice against China. While we found that citizens generally favored non-compliance with the ruling, shaming by the United Nations significantly reduced public support for non-compliance. In contrast, shaming by the United States had no significant effect. These results suggest that naming and shaming may bolster domestic support for compliance with international court rulings, even in restrictive environments like China. 
     </details>
 
-* **Wang, Hsu Yumin** and [Yeung, Eddy S. F.](https://eddy-yeung.github.io/). Forthcoming. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." _The Journal of Politics_.
+* **Wang, Hsu Yumin** and [Yeung, Eddy S. F.](https://eddy-yeung.github.io/). 2025. "Mimicking Democracy: The Legitimizing Role of Redistributionist Propaganda in Autocracies." _The Journal of Politics_. 87(4): 1600-1616. [[DOI](https://www.journals.uchicago.edu/doi/10.1086/734238)]
 
     <details>
       <summary>Show Abstract</summary>
