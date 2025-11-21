@@ -55,17 +55,6 @@ redirect_from:
       Regressive taxation has increasingly played an important role in financing public programs, but current scholarship remains largely silent on the conditions under which people would support such financing strategies. This paper fills this gap by focusing on the United States, where sales taxes account for nearly one-third of state government revenue, and where sales tax ballot measures have received majority support. This paper utilizes an online survey experiment to examine two potential sources of public support for a sales tax increase: equal treatment beliefs (i.e., that all should pay the same tax rate) and a lack of public awareness of the distributive consequences of sales taxes. I find that exposure to information about sales taxes' distributive consequences significantly reduced respondents' support for a sales tax increase, but that equal treatment beliefs had no significant effect on such support. Additional analyses suggest that other-regarding motivations are a plausible mechanism underlying the effects of information provision. These findings shed light on how misperceptions of tax burdens shape support for regressive taxation and have broad implications for the role of fairness beliefs in the formation of tax policy preferences.
     </details>
 
-
-## Book Reviews and Public Scholarship
-
-* **Wang, Hsu Yumin**. 2024. "Authoritarian Judiciaries and Regime Stability in the Shadow of Distributional Conflict." _Contemporary China Newsletter_ 37: 22-31. [[LINK](https://cfcc.site.nthu.edu.tw/.../img/2384/148603633.pdf)] (in Chinese)
-  
-* **Wang, Hsu Yumin**. 2024. "Why Does China Also Have Progressive Labor Laws? From Personal Academic Reflections to Authoritarian Judicial Balancing Theory." _Contemporary China Newsletter_ 37: 22-31. [[LINK](https://cfcc.site.nthu.edu.tw/p/412-1203-10207.php?Lang=zh-tw)] (in Chinese)
-
-* **Wang, Hsu Yumin**. 2024. Book Review of "Atomized Incorporation: Chinese Workers and the Aftermath of China's Rise." _Political Science Quarterly_ 139(4): 695-696. [[DOI](https://doi.org/10.1093/psquar/qqae098)]
-
-* **Wang, Hsu Yumin**. 2022. Book Review of "Workers and Change in China: Resistance, Repression, Responsiveness." _Political Science Quarterly_ 137(4): 815-817. [[DOI](https://onlinelibrary.wiley.com/doi/10.1002/polq.13415)]
-
 ## Working Papers
 
 * **Wang, Hsu Yumin**. "A Latent Variable Approach to Measuring Mass Threats in Nondemocracies." (Invited to Revise and Resubmit at _British Journal of Political Science_)
@@ -95,7 +84,15 @@ redirect_from:
       How does the ideology and institutional organization of authoritarian regimes affect processes of democratization? Class-based analyses of democratic transitions focus on how the poor mobilize against the rich to press for democratization under right-wing authoritarian regimes (Boix 2003, Acemoglu and Robinson 2006). While these models do much to further our understanding of democratization, they neither empirically verify the uniqueness of their claims for right-wing regimes nor take into account the role of institutions in dictatorships. In this paper, dictatorial institutions are brought to the fore in explaining patterns of regime transitions. Our theory establishes that the effect of these institutions will be conditional on the ideology of the regime. Faced with a high revolutionary threat posed by the poor, right-wing dictatorships endowed with political institutions (political parties and legislature) that enable lower-income sectors to secure redistributive policies are less likely to democratize (and more likely to survive). These institutions serve to maintain redistributive transfers even when the revolutionary threat of the poor diminishes. We provide evidence of these claims using original data on the ideological orientation of all dictatorships during the 1960-2008 period.
     </details>
 
+## Book Reviews and Public Scholarship
 
+* **Wang, Hsu Yumin**. 2024. "Authoritarian Judiciaries and Regime Stability in the Shadow of Distributional Conflict." _Contemporary China Newsletter_ 37: 22-31. [[LINK](https://cfcc.site.nthu.edu.tw/.../img/2384/148603633.pdf)] (in Chinese)
+  
+* **Wang, Hsu Yumin**. 2024. "Why Does China Also Have Progressive Labor Laws? From Personal Academic Reflections to Authoritarian Judicial Balancing Theory." _Contemporary China Newsletter_ 37: 22-31. [[LINK](https://cfcc.site.nthu.edu.tw/p/412-1203-10207.php?Lang=zh-tw)] (in Chinese)
+
+* **Wang, Hsu Yumin**. 2024. Book Review of "Atomized Incorporation: Chinese Workers and the Aftermath of China's Rise." _Political Science Quarterly_ 139(4): 695-696. [[DOI](https://doi.org/10.1093/psquar/qqae098)]
+
+* **Wang, Hsu Yumin**. 2022. Book Review of "Workers and Change in China: Resistance, Repression, Responsiveness." _Political Science Quarterly_ 137(4): 815-817. [[DOI](https://onlinelibrary.wiley.com/doi/10.1002/polq.13415)]
 
 ## Work in Progress
 
