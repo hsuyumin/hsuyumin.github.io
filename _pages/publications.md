@@ -77,7 +77,7 @@ redirect_from:
       </details>
 
 
-* **Wang, Hsu Yumin**. "Mass Political Effects of Partially Fulfilled (Re)distributive Programs: Experimental Evidence from China."
+* **Wang, Hsu Yumin**. "Mass Political Effects of Partially Fulfilled (Re)distributive Programs: Experimental Evidence from China." (Invited to Revise and Resubmit at _Public Opinion Quarterly_)
 
     <details>
       <summary>Show Abstract</summary>
