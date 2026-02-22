@@ -15,6 +15,8 @@ author_profile: true
 
 * _Research Design in Social Inquiry_, 2025 Fall (G) [Syllabus](https://www.dropbox.com/previews/Syllabus___Research_Design.pdf?context=search&path=%2F&query=syllabus+research+design&role=personal&typeahead_session_id=31670723796576177680504785387811)
 
+* _Institutions and Behavior_, 2025 Fall (G) [Syllabus](https://www.dropbox.com/scl/fi/9yulrqmanhtl4aovdinac/Syllabus___Institutions_and_Behavior.pdf?rlkey=jqt3dafd1bpy2jx7x8k9szp76&dl=0)
+
 ### [Department of Political Science, Emory University](http://polisci.emory.edu/home/)
 * _Methodology Consultant_, 2022 Fall (G)
 * _Co-instructor_, POLS 385: Comparative Political Economy, 2022 Spring (U)
