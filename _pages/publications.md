@@ -10,7 +10,16 @@ redirect_from:
 
 ## Publications
 
-* **Wang, Hsu Yumin**, [Stefano, Jud](http://stefanojud.com/), and [Will Giles](https://www.linkedin.com/in/will-giles-83a51362). Forthcoming. "Does Shaming Make Non-Compliance with International Court Rulings Costlier? Evidence from China." _Journal of Peace Research_. [[DOI](https://doi.org/10.1177/00223433251360203)]
+* **Wang, Hsu Yumin**. "Compromised Labor Rights and Regime Legitimacy under Authoritarianism." (Conditionally Accepted at _Public Opinion Quarterly_)
+
+    <details>
+      <summary>Show Abstract</summary>
+
+      How do citizens in authoritarian regimes respond when state promises go unfulfilled? In many such regimes, leaders enact pro-labor legislation to project responsiveness but they enforce the legislation only weakly.  This research note provides the first experimental evidence regarding how enforcement gaps in pro-labor legislation shape mass political attitudes in authoritarian regimes. Drawing on a preregistered survey experiment in China, I show that the absence of enforcement significantly erodes political support: unmet expectations surrounding labor rights produce a measurable decline in trust in government. In contrast, when enforcement is partial, public reactions are markedly less negative. Further, the mitigating effect of partial enforcement seems to be driven by the perceived material benefits associated with this enforcement. A follow-up study incorporating a list experiment to detect preference falsification replicates the core findings. By examining mass reactions to different forms of compromised labor rights in authoritarian contexts, this study advances our understanding of authoritarian legitimation strategies and clarifies the conditions under which cooptation can sustain public support.
+    </details>
+
+
+* **Wang, Hsu Yumin**, [Stefano, Jud](http://stefanojud.com/), and [Will Giles](https://www.linkedin.com/in/will-giles-83a51362). Forthcoming. "Does Shaming Make Non-Compliance with International Court Rulings Costlier? Evidence from China." _Journal of Peace Research_. 62(7): 2445–2453. [[DOI](https://doi.org/10.1177/00223433251360203)]
 
     <details>
       <summary>Show Abstract</summary>
@@ -64,16 +73,6 @@ redirect_from:
 
       Students of comparative politics have long recognized mass threats as a key driver of regime change and a variety of political outcomes under dictatorship. Yet, the existing literature to date remains divided over how to measure this theoretical concept properly in empirical research. To measure mass threats, while some prior studies rely on measures related to economic grievances, others emphasize the aspect of organizational capacity of mass mobilization. Moreover, substantial data missingness remains a common problem of the existing measures of mass threats. In this paper, I propose a more comprehensive, latent measure of mass threats in non-democracies to bridge the divide. Utilizing a Bayesian dynamic latent variable approach, the model synthesizes information on manifest indicators from the two facets, generating time-series cross-sectional data of mass threats covering 122 authoritarian countries from 1960 to 2018. I conduct several checks to demonstrate the validity of the new measure and use it to replicate Svolik’s (2013) central results of the inverted U-shaped relationship between mass threats and military intervention.
       </details>
-
-
-* **Wang, Hsu Yumin**. "Mass Political Effects of Partially Fulfilled (Re)distributive Programs: Experimental Evidence from China." (Invited to Revise and Resubmit at _Public Opinion Quarterly_)
-
-    <details>
-      <summary>Show Abstract</summary>
-
-      It is widely believed that autocratic rulers can contain mass discontent and garner political support by introducing progressive redistributive programs. However, such received wisdom overlooks the reality that many of the programs are partially fulfilled and may not meet popular expectations. What is the effect of partially fulfilled redistribution (PFR, hereafter) on regime support? This paper answers this question by focusing on China's 2008 Labor Contract Law, whose policy promises are often compromised in the process of judicial enforcement. I argue that the effect of PFR can be decomposed into two components: backlash against unfulfilled expectations and gains over status quo. Using a pre-registered online survey experiment, I offer, to my knowledge, the first experimental test on the effect of PFR. The findings indicate that, for rulers, PFR does not significantly decrease regime support when compared to inaction on grievances. Further analysis suggests that PFR, if it continues to deliver benefits, may mitigate the backlash resulting from unmet expectations, leading to more mixed and ambivalent attitudes towards the regime among the public. This study contributes to our understanding of the intricate dynamics of authoritarian control and the mass political effects of redistribution.
-    </details>
-
 
 
 * [Gandhi, Jennifer](https://www.jennifergandhi.com/), [Dulce Manzano](http://webs.ucm.es/info/socio6ed/main/Fichas%20personal/DulceManzano/DulceManzano.htm), and **Wang, Hsu Yumin**. "Institutions and Democratization in Right-Wing Dictatorships."
