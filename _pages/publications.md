@@ -19,7 +19,7 @@ redirect_from:
     </details>
 
 
-* **Wang, Hsu Yumin**, [Stefano, Jud](http://stefanojud.com/), and [Will Giles](https://www.linkedin.com/in/will-giles-83a51362). Forthcoming. "Does Shaming Make Non-Compliance with International Court Rulings Costlier? Evidence from China." _Journal of Peace Research_. 62(7): 2445–2453. [[DOI](https://doi.org/10.1177/00223433251360203)]
+* **Wang, Hsu Yumin**, [Stefano, Jud](http://stefanojud.com/), and [Will Giles](https://www.linkedin.com/in/will-giles-83a51362). 2025. "Does Shaming Make Non-Compliance with International Court Rulings Costlier? Evidence from China." _Journal of Peace Research_. 62(7): 2445–2453. [[DOI](https://doi.org/10.1177/00223433251360203)]
 
     <details>
       <summary>Show Abstract</summary>
