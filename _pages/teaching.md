@@ -13,7 +13,7 @@ author_profile: true
 
 * _Experimental Design in Social Research_, 2025 Spring (G) [Syllabus](https://www.dropbox.com/scl/fi/9uag5w1d5e8sp71641a9r/Syllabus___Experiments.pdf?rlkey=0z1y6lmgv8ry1f3vge3mndgpl&st=yurduwk4&dl=0)
 
-* _Research Design in Social Inquiry_, 2025 Fall (G) [Syllabus](https://www.dropbox.com/previews/Syllabus___Research_Design.pdf?context=search&path=%2F&query=syllabus+research+design&role=personal&typeahead_session_id=31670723796576177680504785387811)
+* _Research Design in Social Inquiry_, 2025 Fall (G) [Syllabus](https://www.dropbox.com/scl/fi/0k3or6sms6irczwqxp2ow/Syllabus___Research_Design_v3.pdf?rlkey=63839qe7nlu9nqpk2x788bf6f&dl=0)
 
 * _Institutions and Behavior_, 2026 Spring (G) [Syllabus](https://www.dropbox.com/scl/fi/tvmhk8mht79rf5vkf1yjl/Syllabus___Institutions_and_Behavior.pdf?rlkey=al84j5t6tdpgl2yzqcdxl3uqy&dl=0)
 
