@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a copy of my C.V. [here](https://www.dropbox.com/scl/fi/dg3iyo7t58pdlyeeg2q4d/CV_Wang.pdf?rlkey=sici5zjhl7h0a3uzp1gjddmj9&dl=0).
+You can find a copy of my C.V. [here](https://www.dropbox.com/scl/fi/wen1py7znp1z06w1bua4i/CV_Wang.pdf?rlkey=wk4b6vq01vvjj9lhgq5tya2ku&dl=0).
