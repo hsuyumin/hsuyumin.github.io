@@ -10,7 +10,8 @@ redirect_from:
 
 ## Publications
 
-* **Wang, Hsu Yumin**. Forthcoming. "Compromised Labor Rights and Regime Legitimacy Under Authoritarianism," _Public Opinion Quarterly_.
+* **Wang, Hsu Yumin**. Forthcoming. "Compromised Labor Rights and Regime Legitimacy Under Authoritarianism," _Public Opinion Quarterly_. [[DOI](https://doi.org/10.1093/poq/nfag058)]
+
 
     <details>
       <summary>Show Abstract</summary>
